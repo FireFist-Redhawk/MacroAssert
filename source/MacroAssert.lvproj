@@ -70,6 +70,7 @@
 				<Item Name="LVWUtil32.dll" Type="Document" URL="../SubVIs/labview_win_util32_8.6/LVWUtil32.dll"/>
 				<Item Name="MANUAL.WRI" Type="Document" URL="../SubVIs/labview_win_util32_8.6/MANUAL.WRI"/>
 				<Item Name="Readme.doc" Type="Document" URL="../SubVIs/labview_win_util32_8.6/Readme.doc"/>
+				<Item Name="Win Util New.lvlib" Type="Library" URL="../SubVIs/labview_win_util32_8.6/Win Util New/Win Util New.lvlib"/>
 			</Item>
 			<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine/FaKI State Machine.lvlib"/>
 			<Item Name="Alter Macro V2.vi" Type="VI" URL="../SubVIs/Alter Macro V2.vi"/>
@@ -106,6 +107,7 @@
 			<Item Name="Get Image Portion.vi" Type="VI" URL="../SubVIs/Get Image Portion.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
+			<Item Name="My Test.lvclass" Type="LVClass" URL="../SubVIs/Tests/My Test/My Test.lvclass"/>
 			<Item Name="Test Config Migration.vi" Type="VI" URL="../SubVIs/Tests/Test Config Migration.vi"/>
 		</Item>
 		<Item Name="New Test.vi" Type="VI" URL="../New Test.vi"/>
