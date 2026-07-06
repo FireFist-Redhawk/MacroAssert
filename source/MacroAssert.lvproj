@@ -105,6 +105,7 @@
 			<Item Name="Timer FGV.vi" Type="VI" URL="../SubVIs/Timer FGV.vi"/>
 			<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
 			<Item Name="Get Image Portion.vi" Type="VI" URL="../SubVIs/Get Image Portion.vi"/>
+			<Item Name="Invoke Assertion.vi" Type="VI" URL="../SubVIs/Invoke Assertion.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="My Test.lvclass" Type="LVClass" URL="../SubVIs/Tests/My Test/My Test.lvclass"/>
