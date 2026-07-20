@@ -6,6 +6,17 @@
 	<Property Name="NI_IconEditor" Type="Str">50 54 49 49 56 48 48 49 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 4 49 1 100 1 100 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 3 189 0 0 0 0 0 0 0 0 0 0 3 162 0 40 0 0 3 156 0 0 3 96 0 0 0 0 0 9 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 0 0 0 0 0 0 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 0 0 0 0 0 0 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 0 0 0 0 0 0 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 0 0 0 0 0 0 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 0 0 0 0 0 0 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 0 0 0 0 0 0 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 67 132 183 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 7 86 73 32 73 99 111 110 100 1 0 0 0 0 0 8 77 32 65 45 32 84 83 84 0 0 0 0 0 0 0 0 0 0 0 0 0 4 220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 8 1 1
 
 </Property>
+	<Item Name="Classes" Type="Folder">
+		<Item Name="Assertion Step.lvclass" Type="LVClass" URL="../Classes/Assertion Step/Assertion Step.lvclass"/>
+		<Item Name="Control Assertion.lvclass" Type="LVClass" URL="../Classes/Control Assertion/Control Assertion.lvclass"/>
+		<Item Name="Disabled Assertion.lvclass" Type="LVClass" URL="../Classes/Disabled Assertion/Disabled Assertion.lvclass"/>
+		<Item Name="Image Assertion.lvclass" Type="LVClass" URL="../Classes/Image Assertion/Image Assertion.lvclass"/>
+		<Item Name="Keyboard Macro.lvclass" Type="LVClass" URL="../Classes/Keyboard Macro/Keyboard Macro.lvclass"/>
+		<Item Name="Macro Step.lvclass" Type="LVClass" URL="../Classes/Macro Step/Macro Step.lvclass"/>
+		<Item Name="Mouse Macro.lvclass" Type="LVClass" URL="../Classes/Mouse Macro/Mouse Macro.lvclass"/>
+		<Item Name="Step.lvclass" Type="LVClass" URL="../Classes/Step/Step.lvclass"/>
+		<Item Name="Visible Assertion.lvclass" Type="LVClass" URL="../Classes/Visible Assertion/Visible Assertion.lvclass"/>
+	</Item>
 	<Item Name="CTLs" Type="Folder">
 		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
 		<Item Name="Assertion Type.ctl" Type="VI" URL="../CTLs/Assertion Type.ctl"/>
@@ -81,6 +92,7 @@
 		<Item Name="Convert Hotkey to String.vi" Type="VI" URL="../SubVIs/Convert Hotkey to String.vi"/>
 		<Item Name="Convert Metadata to String.vi" Type="VI" URL="../SubVIs/Convert Metadata to String.vi"/>
 		<Item Name="Convert Step to Report Line.vi" Type="VI" URL="../SubVIs/Convert Step to Report Line.vi"/>
+		<Item Name="Convert Step to String.vi" Type="VI" URL="../SubVIs/Convert Step to String.vi"/>
 		<Item Name="Convert to Rectangle.vi" Type="VI" URL="../SubVIs/Convert to Rectangle.vi"/>
 		<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
 		<Item Name="Display Data to Table.vi" Type="VI" URL="../SubVIs/Display Data to Table.vi"/>
@@ -99,12 +111,14 @@
 		<Item Name="Perform Step.vi" Type="VI" URL="../SubVIs/Perform Step.vi"/>
 		<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
 		<Item Name="Read Assertion Parameters.vi" Type="VI" URL="../SubVIs/Read Assertion Parameters.vi"/>
+		<Item Name="Read Asssertion Parameters 2.vi" Type="VI" URL="../SubVIs/Read Asssertion Parameters 2.vi"/>
 		<Item Name="Read Macro Config.vi" Type="VI" URL="../SubVIs/Read Macro Config.vi"/>
 		<Item Name="Read Macro Names.vi" Type="VI" URL="../SubVIs/Read Macro Names.vi"/>
 		<Item Name="Read Macro Steps.vi" Type="VI" URL="../SubVIs/Read Macro Steps.vi"/>
 		<Item Name="Read Macro.vi" Type="VI" URL="../SubVIs/Read Macro.vi"/>
 		<Item Name="Read Monitor Resolution.vi" Type="VI" URL="../SubVIs/Read Monitor Resolution.vi"/>
 		<Item Name="Read Type-Specific Macro Parameters.vi" Type="VI" URL="../SubVIs/Read Type-Specific Macro Parameters.vi"/>
+		<Item Name="Save Assertion Parameters.vi" Type="VI" URL="../SubVIs/Save Assertion Parameters.vi"/>
 		<Item Name="Save Hotkey.vi" Type="VI" URL="../SubVIs/Save Hotkey.vi"/>
 		<Item Name="Save Macro Config.vi" Type="VI" URL="../SubVIs/Save Macro Config.vi"/>
 		<Item Name="Save Macro Steps.vi" Type="VI" URL="../SubVIs/Save Macro Steps.vi"/>
