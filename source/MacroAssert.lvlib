@@ -7,15 +7,23 @@
 
 </Property>
 	<Item Name="Classes" Type="Folder">
+		<Item Name="Support" Type="Folder">
+			<Item Name="Convert Step Index to Section Name.vi" Type="VI" URL="../Classes/Support/Convert Step Index to Section Name.vi"/>
+			<Item Name="Load Macro from File.vi" Type="VI" URL="../Classes/Support/Load Macro from File.vi"/>
+			<Item Name="Load Step.vi" Type="VI" URL="../Classes/Support/Load Step.vi"/>
+			<Item Name="Step Type Not Supported--error.vi" Type="VI" URL="../Classes/Support/Step Type Not Supported--error.vi"/>
+		</Item>
 		<Item Name="Assertion Step.lvclass" Type="LVClass" URL="../Classes/Assertion Step/Assertion Step.lvclass"/>
 		<Item Name="Control Assertion.lvclass" Type="LVClass" URL="../Classes/Control Assertion/Control Assertion.lvclass"/>
 		<Item Name="Disabled Assertion.lvclass" Type="LVClass" URL="../Classes/Disabled Assertion/Disabled Assertion.lvclass"/>
 		<Item Name="Image Assertion.lvclass" Type="LVClass" URL="../Classes/Image Assertion/Image Assertion.lvclass"/>
 		<Item Name="Keyboard Macro.lvclass" Type="LVClass" URL="../Classes/Keyboard Macro/Keyboard Macro.lvclass"/>
 		<Item Name="Macro Step.lvclass" Type="LVClass" URL="../Classes/Macro Step/Macro Step.lvclass"/>
+		<Item Name="Macro.lvclass" Type="LVClass" URL="../Classes/Macro/Macro.lvclass"/>
 		<Item Name="Mouse Macro.lvclass" Type="LVClass" URL="../Classes/Mouse Macro/Mouse Macro.lvclass"/>
 		<Item Name="Step.lvclass" Type="LVClass" URL="../Classes/Step/Step.lvclass"/>
 		<Item Name="Visible Assertion.lvclass" Type="LVClass" URL="../Classes/Visible Assertion/Visible Assertion.lvclass"/>
+		<Item Name="Wait Action.lvclass" Type="LVClass" URL="../Classes/Wait Action/Wait Action.lvclass"/>
 	</Item>
 	<Item Name="CTLs" Type="Folder">
 		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
