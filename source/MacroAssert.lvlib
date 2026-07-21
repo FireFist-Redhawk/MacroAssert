@@ -24,6 +24,7 @@
 		<Item Name="Step.lvclass" Type="LVClass" URL="../Classes/Step/Step.lvclass"/>
 		<Item Name="Visible Assertion.lvclass" Type="LVClass" URL="../Classes/Visible Assertion/Visible Assertion.lvclass"/>
 		<Item Name="Wait Action.lvclass" Type="LVClass" URL="../Classes/Wait Action/Wait Action.lvclass"/>
+		<Item Name="Window Action.lvclass" Type="LVClass" URL="../Classes/Window Action/Window Action.lvclass"/>
 	</Item>
 	<Item Name="CTLs" Type="Folder">
 		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
