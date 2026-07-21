@@ -59,18 +59,6 @@
 			<Item Name="Mouse Move.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Move.vi"/>
 			<Item Name="Mouse Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Up.vi"/>
 		</Item>
-		<Item Name="labview_win_util32_8.6" Type="Folder">
-			<Item Name="00README.TXT" Type="Document" URL="../SubVIs/labview_win_util32_8.6/00README.TXT"/>
-			<Item Name="LVWUtil32.dll" Type="Document" URL="../SubVIs/labview_win_util32_8.6/LVWUtil32.dll"/>
-			<Item Name="MANUAL.WRI" Type="Document" URL="../SubVIs/labview_win_util32_8.6/MANUAL.WRI"/>
-			<Item Name="Readme.doc" Type="Document" URL="../SubVIs/labview_win_util32_8.6/Readme.doc"/>
-			<Item Name="Win Util New.lvlib" Type="Library" URL="../SubVIs/labview_win_util32_8.6/Win Util New/Win Util New.lvlib"/>
-			<Item Name="Winevent.lvlib" Type="Library" URL="../SubVIs/labview_win_util32_8.6/Winevent/Winevent.lvlib"/>
-			<Item Name="WINKEY.lvlib" Type="Library" URL="../SubVIs/labview_win_util32_8.6/WINKEY/WINKEY.lvlib"/>
-			<Item Name="WINNET.lvlib" Type="Library" URL="../SubVIs/labview_win_util32_8.6/WINNET/WINNET.lvlib"/>
-			<Item Name="Winsys.lvlib" Type="Library" URL="../SubVIs/labview_win_util32_8.6/Winsys/Winsys.lvlib"/>
-			<Item Name="WINUTIL.lvlib" Type="Library" URL="../SubVIs/labview_win_util32_8.6/WINUTIL/WINUTIL.lvlib"/>
-		</Item>
 		<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
 		<Item Name="Change Settings.vi" Type="VI" URL="../SubVIs/Change Settings.vi"/>
 		<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
@@ -94,6 +82,7 @@
 		<Item Name="Test Assertion.vi" Type="VI" URL="../SubVIs/Test Assertion.vi"/>
 		<Item Name="Timer FGV.vi" Type="VI" URL="../SubVIs/Timer FGV.vi"/>
 		<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
+		<Item Name="Win Util.lvlib" Type="Library" URL="../SubVIs/Win Util/Win Util.lvlib"/>
 	</Item>
 	<Item Name="New Test.vi" Type="VI" URL="../New Test.vi"/>
 </Library>
