@@ -62,7 +62,6 @@
 		<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
 		<Item Name="Change Settings.vi" Type="VI" URL="../SubVIs/Change Settings.vi"/>
 		<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
-		<Item Name="Clear Macro Sections.vi" Type="VI" URL="../SubVIs/Clear Macro Sections.vi"/>
 		<Item Name="Convert Hotkey to String.vi" Type="VI" URL="../SubVIs/Convert Hotkey to String.vi"/>
 		<Item Name="Convert to Rectangle.vi" Type="VI" URL="../SubVIs/Convert to Rectangle.vi"/>
 		<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
