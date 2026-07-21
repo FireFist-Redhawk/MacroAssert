@@ -8,6 +8,7 @@
 	<Item Name="Support for FaKI State Machine" Type="Folder">
 		<Item Name="Build Error Message.vi" Type="VI" URL="../Support for FaKI State Machine/Build Error Message.vi"/>
 		<Item Name="Enqueue Multiple States.vi" Type="VI" URL="../Support for FaKI State Machine/Enqueue Multiple States.vi"/>
+		<Item Name="Initialize.vi" Type="VI" URL="../Support for FaKI State Machine/Initialize.vi"/>
 		<Item Name="Parse Element.vi" Type="VI" URL="../Support for FaKI State Machine/Parse Element.vi"/>
 		<Item Name="Producer Loop Guard Clause.vi" Type="VI" URL="../Support for FaKI State Machine/Producer Loop Guard Clause.vi"/>
 	</Item>

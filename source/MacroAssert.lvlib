@@ -29,11 +29,14 @@
 	<Item Name="CTLs" Type="Folder">
 		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
 		<Item Name="Assertion Type.ctl" Type="VI" URL="../CTLs/Assertion Type.ctl"/>
+		<Item Name="Control Data Type.ctl" Type="VI" URL="../CTLs/Control Data Type.ctl"/>
+		<Item Name="Control Property.ctl" Type="VI" URL="../CTLs/Control Property.ctl"/>
 		<Item Name="Edit Action.ctl" Type="VI" URL="../CTLs/Edit Action.ctl"/>
 		<Item Name="FGV Actions.ctl" Type="VI" URL="../CTLs/FGV Actions.ctl"/>
 		<Item Name="Hotkey Type.ctl" Type="VI" URL="../CTLs/Hotkey Type.ctl"/>
 		<Item Name="Hotkey Values.ctl" Type="VI" URL="../CTLs/Hotkey Values.ctl"/>
 		<Item Name="Macro Config V3.ctl" Type="VI" URL="../CTLs/Macro Config V3.ctl"/>
+		<Item Name="Mouse Action Type.ctl" Type="VI" URL="../CTLs/Mouse Action Type.ctl"/>
 		<Item Name="Prompt for Step Front Panel Data.ctl" Type="VI" URL="../CTLs/Prompt for Step Front Panel Data.ctl"/>
 		<Item Name="Prompt for Step State Data.ctl" Type="VI" URL="../CTLs/Prompt for Step State Data.ctl"/>
 		<Item Name="Refs.ctl" Type="VI" URL="../CTLs/Refs.ctl"/>
@@ -60,6 +63,11 @@
 			<Item Name="Mouse Move.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Move.vi"/>
 			<Item Name="Mouse Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Up.vi"/>
 		</Item>
+		<Item Name="WIP" Type="Folder">
+			<Item Name="Load Child Method.vi" Type="VI" URL="../SubVIs/WIP/Load Child Method.vi"/>
+			<Item Name="Prompt for Step New.vi" Type="VI" URL="../SubVIs/WIP/Prompt for Step New.vi"/>
+			<Item Name="Step Types Mind Map.vi" Type="VI" URL="../SubVIs/WIP/Step Types Mind Map.vi"/>
+		</Item>
 		<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
 		<Item Name="Change Settings.vi" Type="VI" URL="../SubVIs/Change Settings.vi"/>
 		<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
@@ -74,15 +82,16 @@
 		<Item Name="Get Image Portion.vi" Type="VI" URL="../SubVIs/Get Image Portion.vi"/>
 		<Item Name="Get Monitor Configuration.vi" Type="VI" URL="../SubVIs/Get Monitor Configuration.vi"/>
 		<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
-		<Item Name="Perform Step.vi" Type="VI" URL="../SubVIs/Perform Step.vi"/>
+		<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
 		<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
 		<Item Name="Read Macro Names.vi" Type="VI" URL="../SubVIs/Read Macro Names.vi"/>
 		<Item Name="Read Monitor Resolution.vi" Type="VI" URL="../SubVIs/Read Monitor Resolution.vi"/>
 		<Item Name="Save Hotkey.vi" Type="VI" URL="../SubVIs/Save Hotkey.vi"/>
-		<Item Name="Test Assertion.vi" Type="VI" URL="../SubVIs/Test Assertion.vi"/>
 		<Item Name="Timer FGV.vi" Type="VI" URL="../SubVIs/Timer FGV.vi"/>
 		<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
+		<Item Name="Unhandled String Argument--error.vi" Type="VI" URL="../SubVIs/Unhandled String Argument--error.vi"/>
 		<Item Name="Win Util.lvlib" Type="Library" URL="../SubVIs/Win Util/Win Util.lvlib"/>
 	</Item>
-	<Item Name="New Test.vi" Type="VI" URL="../New Test.vi"/>
+	<Item Name="MacroAssert.rtm" Type="Document" URL="../MacroAssert.rtm"/>
+	<Item Name="MacroAssert.vi" Type="VI" URL="../MacroAssert.vi"/>
 </Library>
