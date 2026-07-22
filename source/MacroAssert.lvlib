@@ -9,6 +9,7 @@
 	<Item Name="Classes" Type="Folder">
 		<Item Name="Support" Type="Folder">
 			<Item Name="Convert Step Index to Section Name.vi" Type="VI" URL="../Classes/Support/Convert Step Index to Section Name.vi"/>
+			<Item Name="Get Control Reference by Label.vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label.vi"/>
 			<Item Name="Load Macro from File.vi" Type="VI" URL="../Classes/Support/Load Macro from File.vi"/>
 			<Item Name="Load Step.vi" Type="VI" URL="../Classes/Support/Load Step.vi"/>
 			<Item Name="Step Type Not Supported--error.vi" Type="VI" URL="../Classes/Support/Step Type Not Supported--error.vi"/>
@@ -35,9 +36,11 @@
 		<Item Name="FGV Actions.ctl" Type="VI" URL="../CTLs/FGV Actions.ctl"/>
 		<Item Name="Hotkey Type.ctl" Type="VI" URL="../CTLs/Hotkey Type.ctl"/>
 		<Item Name="Hotkey Values.ctl" Type="VI" URL="../CTLs/Hotkey Values.ctl"/>
+		<Item Name="Image Assertion Type.ctl" Type="VI" URL="../CTLs/Image Assertion Type.ctl"/>
 		<Item Name="Macro Config V3.ctl" Type="VI" URL="../CTLs/Macro Config V3.ctl"/>
 		<Item Name="Mouse Action Type.ctl" Type="VI" URL="../CTLs/Mouse Action Type.ctl"/>
 		<Item Name="Prompt for Step Front Panel Data.ctl" Type="VI" URL="../CTLs/Prompt for Step Front Panel Data.ctl"/>
+		<Item Name="Prompt for Step References.ctl" Type="VI" URL="../CTLs/Prompt for Step References.ctl"/>
 		<Item Name="Prompt for Step State Data.ctl" Type="VI" URL="../CTLs/Prompt for Step State Data.ctl"/>
 		<Item Name="Refs.ctl" Type="VI" URL="../CTLs/Refs.ctl"/>
 		<Item Name="Report Data.ctl" Type="VI" URL="../CTLs/Report Data.ctl"/>
@@ -81,6 +84,8 @@
 		<Item Name="Get Hotkey.vi" Type="VI" URL="../SubVIs/Get Hotkey.vi"/>
 		<Item Name="Get Image Portion.vi" Type="VI" URL="../SubVIs/Get Image Portion.vi"/>
 		<Item Name="Get Monitor Configuration.vi" Type="VI" URL="../SubVIs/Get Monitor Configuration.vi"/>
+		<Item Name="Get VI Image.vi" Type="VI" URL="../SubVIs/Get VI Image.vi"/>
+		<Item Name="Get Window Image.vi" Type="VI" URL="../SubVIs/Get Window Image.vi"/>
 		<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
 		<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
 		<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
