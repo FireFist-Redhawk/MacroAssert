@@ -8,7 +8,12 @@
 </Property>
 	<Item Name="Classes" Type="Folder">
 		<Item Name="Support" Type="Folder">
+			<Item Name="Build Control Reference Map.vi" Type="VI" URL="../Classes/Support/Build Control Reference Map.vi"/>
+			<Item Name="Control Name Not Found--error.vi" Type="VI" URL="../Classes/Support/Control Name Not Found--error.vi"/>
 			<Item Name="Convert Step Index to Section Name.vi" Type="VI" URL="../Classes/Support/Convert Step Index to Section Name.vi"/>
+			<Item Name="Duplicate Control Names--error.vi" Type="VI" URL="../Classes/Support/Duplicate Control Names--error.vi"/>
+			<Item Name="Get Control Reference by Label (0D STR).vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label (0D STR).vi"/>
+			<Item Name="Get Control Reference by Label (1D STR).vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label (1D STR).vi"/>
 			<Item Name="Get Control Reference by Label.vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label.vi"/>
 			<Item Name="Load Macro from File.vi" Type="VI" URL="../Classes/Support/Load Macro from File.vi"/>
 			<Item Name="Load Step.vi" Type="VI" URL="../Classes/Support/Load Step.vi"/>
@@ -24,7 +29,7 @@
 		<Item Name="Numeric Assertion.lvclass" Type="LVClass" URL="../Classes/Numeric Assertion/Numeric Assertion.lvclass"/>
 		<Item Name="Step.lvclass" Type="LVClass" URL="../Classes/Step/Step.lvclass"/>
 		<Item Name="String Assertion.lvclass" Type="LVClass" URL="../Classes/String Assertion/String Assertion.lvclass"/>
-		<Item Name="Wait Action.lvclass" Type="LVClass" URL="../Classes/Wait Action/Wait Action.lvclass"/>
+		<Item Name="Timing Action.lvclass" Type="LVClass" URL="../Classes/Timing Action/Timing Action.lvclass"/>
 		<Item Name="Window Action.lvclass" Type="LVClass" URL="../Classes/Window Action/Window Action.lvclass"/>
 	</Item>
 	<Item Name="CTLs" Type="Folder">
