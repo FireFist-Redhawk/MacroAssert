@@ -16,37 +16,29 @@
 		</Item>
 		<Item Name="Action Step.lvclass" Type="LVClass" URL="../Classes/Action Step/Action Step.lvclass"/>
 		<Item Name="Assertion Step.lvclass" Type="LVClass" URL="../Classes/Assertion Step/Assertion Step.lvclass"/>
-		<Item Name="Control Assertion.lvclass" Type="LVClass" URL="../Classes/Control Assertion/Control Assertion.lvclass"/>
-		<Item Name="Disabled Assertion.lvclass" Type="LVClass" URL="../Classes/Disabled Assertion/Disabled Assertion.lvclass"/>
+		<Item Name="Boolean Assertion.lvclass" Type="LVClass" URL="../Classes/Boolean Assertion/Boolean Assertion.lvclass"/>
 		<Item Name="Image Assertion.lvclass" Type="LVClass" URL="../Classes/Image Assertion/Image Assertion.lvclass"/>
 		<Item Name="Keyboard Action.lvclass" Type="LVClass" URL="../Classes/Keyboard Action/Keyboard Action.lvclass"/>
 		<Item Name="Macro.lvclass" Type="LVClass" URL="../Classes/Macro/Macro.lvclass"/>
 		<Item Name="Mouse Action.lvclass" Type="LVClass" URL="../Classes/Mouse Action/Mouse Action.lvclass"/>
+		<Item Name="Numeric Assertion.lvclass" Type="LVClass" URL="../Classes/Numeric Assertion/Numeric Assertion.lvclass"/>
 		<Item Name="Step.lvclass" Type="LVClass" URL="../Classes/Step/Step.lvclass"/>
-		<Item Name="Visible Assertion.lvclass" Type="LVClass" URL="../Classes/Visible Assertion/Visible Assertion.lvclass"/>
+		<Item Name="String Assertion.lvclass" Type="LVClass" URL="../Classes/String Assertion/String Assertion.lvclass"/>
 		<Item Name="Wait Action.lvclass" Type="LVClass" URL="../Classes/Wait Action/Wait Action.lvclass"/>
 		<Item Name="Window Action.lvclass" Type="LVClass" URL="../Classes/Window Action/Window Action.lvclass"/>
 	</Item>
 	<Item Name="CTLs" Type="Folder">
 		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
-		<Item Name="Assertion Type.ctl" Type="VI" URL="../CTLs/Assertion Type.ctl"/>
-		<Item Name="Control Data Type.ctl" Type="VI" URL="../CTLs/Control Data Type.ctl"/>
-		<Item Name="Control Property.ctl" Type="VI" URL="../CTLs/Control Property.ctl"/>
 		<Item Name="Edit Action.ctl" Type="VI" URL="../CTLs/Edit Action.ctl"/>
 		<Item Name="FGV Actions.ctl" Type="VI" URL="../CTLs/FGV Actions.ctl"/>
 		<Item Name="Hotkey Type.ctl" Type="VI" URL="../CTLs/Hotkey Type.ctl"/>
 		<Item Name="Hotkey Values.ctl" Type="VI" URL="../CTLs/Hotkey Values.ctl"/>
-		<Item Name="Image Assertion Type.ctl" Type="VI" URL="../CTLs/Image Assertion Type.ctl"/>
 		<Item Name="Macro Config V3.ctl" Type="VI" URL="../CTLs/Macro Config V3.ctl"/>
-		<Item Name="Mouse Action Type.ctl" Type="VI" URL="../CTLs/Mouse Action Type.ctl"/>
-		<Item Name="Prompt for Step Front Panel Data.ctl" Type="VI" URL="../CTLs/Prompt for Step Front Panel Data.ctl"/>
-		<Item Name="Prompt for Step References.ctl" Type="VI" URL="../CTLs/Prompt for Step References.ctl"/>
 		<Item Name="Prompt for Step State Data.ctl" Type="VI" URL="../CTLs/Prompt for Step State Data.ctl"/>
 		<Item Name="Refs.ctl" Type="VI" URL="../CTLs/Refs.ctl"/>
 		<Item Name="Report Data.ctl" Type="VI" URL="../CTLs/Report Data.ctl"/>
 		<Item Name="State Data.ctl" Type="VI" URL="../CTLs/State Data.ctl"/>
 		<Item Name="Step Type V3.ctl" Type="VI" URL="../CTLs/Step Type V3.ctl"/>
-		<Item Name="Step V3.ctl" Type="VI" URL="../CTLs/Step V3.ctl"/>
 	</Item>
 	<Item Name="Globals" Type="Folder">
 		<Item Name="App Config INI.vi" Type="VI" URL="../Globals/App Config INI.vi"/>
@@ -67,8 +59,6 @@
 			<Item Name="Mouse Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Up.vi"/>
 		</Item>
 		<Item Name="WIP" Type="Folder">
-			<Item Name="Load Child Method.vi" Type="VI" URL="../SubVIs/WIP/Load Child Method.vi"/>
-			<Item Name="Prompt for Step New.vi" Type="VI" URL="../SubVIs/WIP/Prompt for Step New.vi"/>
 			<Item Name="Step Types Mind Map.vi" Type="VI" URL="../SubVIs/WIP/Step Types Mind Map.vi"/>
 		</Item>
 		<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
