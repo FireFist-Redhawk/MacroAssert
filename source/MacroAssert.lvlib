@@ -55,6 +55,7 @@
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="KBM Simulation" Type="Folder">
+			<Item Name="Get Cursor Position.vi" Type="VI" URL="../SubVIs/KBM Simulation/Get Cursor Position.vi"/>
 			<Item Name="Key Down.vi" Type="VI" URL="../SubVIs/KBM Simulation/Key Down.vi"/>
 			<Item Name="Key Press.vi" Type="VI" URL="../SubVIs/KBM Simulation/Key Press.vi"/>
 			<Item Name="Key Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Key Up.vi"/>
@@ -62,6 +63,7 @@
 			<Item Name="Mouse Down.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Down.vi"/>
 			<Item Name="Mouse Move.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Move.vi"/>
 			<Item Name="Mouse Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Up.vi"/>
+			<Item Name="Mouse Wheel.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Wheel.vi"/>
 		</Item>
 		<Item Name="WIP" Type="Folder">
 			<Item Name="Step Types Mind Map.vi" Type="VI" URL="../SubVIs/WIP/Step Types Mind Map.vi"/>
@@ -79,6 +81,7 @@
 		<Item Name="Get Hotkey.vi" Type="VI" URL="../SubVIs/Get Hotkey.vi"/>
 		<Item Name="Get Image Portion.vi" Type="VI" URL="../SubVIs/Get Image Portion.vi"/>
 		<Item Name="Get Monitor Configuration.vi" Type="VI" URL="../SubVIs/Get Monitor Configuration.vi"/>
+		<Item Name="Get Monitor Total Bounds.vi" Type="VI" URL="../SubVIs/Get Monitor Total Bounds.vi"/>
 		<Item Name="Get VI Image.vi" Type="VI" URL="../SubVIs/Get VI Image.vi"/>
 		<Item Name="Get Window Image.vi" Type="VI" URL="../SubVIs/Get Window Image.vi"/>
 		<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
