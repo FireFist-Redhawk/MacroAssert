@@ -12,6 +12,7 @@
 	<Item Name="Flash Title Bar.vi" Type="VI" URL="../Flash Title Bar.vi"/>
 	<Item Name="Generate String Buffer.vi" Type="VI" URL="../Generate String Buffer.vi"/>
 	<Item Name="Get Client Rectangle.vi" Type="VI" URL="../Get Client Rectangle.vi"/>
+	<Item Name="Get Foreground Window.vi" Type="VI" URL="../Get Foreground Window.vi"/>
 	<Item Name="Get VI FrontPanel RefNum.vi" Type="VI" URL="../Get VI FrontPanel RefNum.vi"/>
 	<Item Name="Get VI RefNum.vi" Type="VI" URL="../Get VI RefNum.vi"/>
 	<Item Name="Get Window DPI.vi" Type="VI" URL="../Get Window DPI.vi"/>
