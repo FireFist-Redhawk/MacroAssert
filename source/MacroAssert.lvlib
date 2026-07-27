@@ -11,11 +11,13 @@
 			<Item Name="Build Control Reference Map.vi" Type="VI" URL="../Classes/Support/Build Control Reference Map.vi"/>
 			<Item Name="Control Name Not Found--error.vi" Type="VI" URL="../Classes/Support/Control Name Not Found--error.vi"/>
 			<Item Name="Convert Modifiers to String.vi" Type="VI" URL="../Classes/Support/Convert Modifiers to String.vi"/>
+			<Item Name="Convert Pass-Fail to String.vi" Type="VI" URL="../Classes/Support/Convert Pass-Fail to String.vi"/>
 			<Item Name="Convert Step Index to Section Name.vi" Type="VI" URL="../Classes/Support/Convert Step Index to Section Name.vi"/>
 			<Item Name="Duplicate Control Names--error.vi" Type="VI" URL="../Classes/Support/Duplicate Control Names--error.vi"/>
 			<Item Name="Get Control Reference by Label (0D STR).vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label (0D STR).vi"/>
 			<Item Name="Get Control Reference by Label (1D STR).vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label (1D STR).vi"/>
 			<Item Name="Get Control Reference by Label.vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label.vi"/>
+			<Item Name="Get Window RefNum Wrapper.vi" Type="VI" URL="../Classes/Support/Get Window RefNum Wrapper.vi"/>
 			<Item Name="Load Macro from File.vi" Type="VI" URL="../Classes/Support/Load Macro from File.vi"/>
 			<Item Name="Load Step.vi" Type="VI" URL="../Classes/Support/Load Step.vi"/>
 			<Item Name="Step Type Not Supported--error.vi" Type="VI" URL="../Classes/Support/Step Type Not Supported--error.vi"/>
@@ -65,9 +67,6 @@
 			<Item Name="Mouse Move.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Move.vi"/>
 			<Item Name="Mouse Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Up.vi"/>
 			<Item Name="Mouse Wheel.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Wheel.vi"/>
-		</Item>
-		<Item Name="WIP" Type="Folder">
-			<Item Name="Step Types Mind Map.vi" Type="VI" URL="../SubVIs/WIP/Step Types Mind Map.vi"/>
 		</Item>
 		<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
 		<Item Name="Change Settings.vi" Type="VI" URL="../SubVIs/Change Settings.vi"/>
