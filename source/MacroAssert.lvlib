@@ -37,6 +37,8 @@
 	</Item>
 	<Item Name="CTLs" Type="Folder">
 		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
+		<Item Name="Config Key.ctl" Type="VI" URL="../CTLs/Config Key.ctl"/>
+		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
 		<Item Name="Edit Action.ctl" Type="VI" URL="../CTLs/Edit Action.ctl"/>
 		<Item Name="FGV Actions.ctl" Type="VI" URL="../CTLs/FGV Actions.ctl"/>
 		<Item Name="Hotkey Type.ctl" Type="VI" URL="../CTLs/Hotkey Type.ctl"/>
@@ -48,15 +50,13 @@
 		<Item Name="State Data.ctl" Type="VI" URL="../CTLs/State Data.ctl"/>
 		<Item Name="Step Type V3.ctl" Type="VI" URL="../CTLs/Step Type V3.ctl"/>
 	</Item>
-	<Item Name="Globals" Type="Folder">
-		<Item Name="App Config INI.vi" Type="VI" URL="../Globals/App Config INI.vi"/>
-		<Item Name="App Data Directory.vi" Type="VI" URL="../Globals/App Data Directory.vi"/>
-		<Item Name="Config Paths.vi" Type="VI" URL="../Globals/Config Paths.vi"/>
-		<Item Name="Default Hotkey.vi" Type="VI" URL="../Globals/Default Hotkey.vi"/>
-		<Item Name="Macro Schema Version.vi" Type="VI" URL="../Globals/Macro Schema Version.vi"/>
-		<Item Name="Papirus-Team-Papirus-Apps-Krusader-root.ico" Type="Document" URL="../Globals/Papirus-Team-Papirus-Apps-Krusader-root.ico"/>
-	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Constants" Type="Folder">
+			<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
+			<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
+			<Item Name="Default Hotkey.vi" Type="VI" URL="../Globals/Default Hotkey.vi"/>
+			<Item Name="Macro Schema Version.vi" Type="VI" URL="../Globals/Macro Schema Version.vi"/>
+		</Item>
 		<Item Name="KBM Simulation" Type="Folder">
 			<Item Name="Get Cursor Position.vi" Type="VI" URL="../SubVIs/KBM Simulation/Get Cursor Position.vi"/>
 			<Item Name="Key Down.vi" Type="VI" URL="../SubVIs/KBM Simulation/Key Down.vi"/>
@@ -69,6 +69,7 @@
 			<Item Name="Mouse Wheel.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Wheel.vi"/>
 		</Item>
 		<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
+		<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
 		<Item Name="Change Settings.vi" Type="VI" URL="../SubVIs/Change Settings.vi"/>
 		<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
 		<Item Name="Convert Hotkey to String.vi" Type="VI" URL="../SubVIs/Convert Hotkey to String.vi"/>
@@ -87,6 +88,7 @@
 		<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
 		<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
 		<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
+		<Item Name="Read Config.vi" Type="VI" URL="../SubVIs/Read Config.vi"/>
 		<Item Name="Read Macro Names.vi" Type="VI" URL="../SubVIs/Read Macro Names.vi"/>
 		<Item Name="Read Monitor Resolution.vi" Type="VI" URL="../SubVIs/Read Monitor Resolution.vi"/>
 		<Item Name="Save Hotkey.vi" Type="VI" URL="../SubVIs/Save Hotkey.vi"/>
@@ -94,6 +96,7 @@
 		<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
 		<Item Name="Unhandled String Argument--error.vi" Type="VI" URL="../SubVIs/Unhandled String Argument--error.vi"/>
 		<Item Name="Win Util.lvlib" Type="Library" URL="../SubVIs/Win Util/Win Util.lvlib"/>
+		<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
 	</Item>
 	<Item Name="MacroAssert.rtm" Type="Document" URL="../MacroAssert.rtm"/>
 	<Item Name="MacroAssert.vi" Type="VI" URL="../MacroAssert.vi"/>
