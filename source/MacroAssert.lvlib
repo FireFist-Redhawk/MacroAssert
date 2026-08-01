@@ -50,9 +50,24 @@
 		<Item Name="Step Type V3.ctl" Type="VI" URL="../CTLs/Step Type V3.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Configuration" Type="Folder">
+			<Item Name="Read Config.vi" Type="VI" URL="../SubVIs/Read Config.vi"/>
+			<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
+		</Item>
 		<Item Name="Constants" Type="Folder">
 			<Item Name="Config Path--constant.vi" Type="VI" URL="../SubVIs/Config Path--constant.vi"/>
 			<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
+			<Item Name="Unhandled String Argument--error.vi" Type="VI" URL="../SubVIs/Unhandled String Argument--error.vi"/>
+		</Item>
+		<Item Name="Data Utility" Type="Folder">
+			<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
+			<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
+			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
+			<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
+			<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
+			<Item Name="Read Macro Names.vi" Type="VI" URL="../SubVIs/Read Macro Names.vi"/>
+			<Item Name="Timer FGV.vi" Type="VI" URL="../SubVIs/Timer FGV.vi"/>
+			<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
 		</Item>
 		<Item Name="KBM Simulation" Type="Folder">
 			<Item Name="Get Cursor Position.vi" Type="VI" URL="../SubVIs/KBM Simulation/Get Cursor Position.vi"/>
@@ -65,38 +80,34 @@
 			<Item Name="Mouse Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Up.vi"/>
 			<Item Name="Mouse Wheel.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Wheel.vi"/>
 		</Item>
-		<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
-		<Item Name="Build Status Message.vi" Type="VI" URL="../SubVIs/Build Status Message.vi"/>
-		<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
-		<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
-		<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
-		<Item Name="Convert Hotkey to String.vi" Type="VI" URL="../SubVIs/Convert Hotkey to String.vi"/>
-		<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
-		<Item Name="Convert to Rectangle.vi" Type="VI" URL="../SubVIs/Convert to Rectangle.vi"/>
-		<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
-		<Item Name="Display Dialog.vi" Type="VI" URL="../SubVIs/Display Dialog.vi"/>
-		<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
+		<Item Name="Macro Utility" Type="Folder">
+			<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
+			<Item Name="Convert to Rectangle.vi" Type="VI" URL="../SubVIs/Convert to Rectangle.vi"/>
+			<Item Name="Get Active VI of Active Project.vi" Type="VI" URL="../SubVIs/Get Active VI of Active Project.vi"/>
+			<Item Name="Get Control Portion Image.vi" Type="VI" URL="../SubVIs/Get Control Portion Image.vi"/>
+			<Item Name="Get Control Ref by Name.vi" Type="VI" URL="../SubVIs/Get Control Ref by Name.vi"/>
+			<Item Name="Get Image Portion.vi" Type="VI" URL="../SubVIs/Get Image Portion.vi"/>
+			<Item Name="Get Monitor Configuration.vi" Type="VI" URL="../SubVIs/Get Monitor Configuration.vi"/>
+			<Item Name="Get Monitor Total Bounds.vi" Type="VI" URL="../SubVIs/Get Monitor Total Bounds.vi"/>
+			<Item Name="Get VI Image.vi" Type="VI" URL="../SubVIs/Get VI Image.vi"/>
+			<Item Name="Get Window Image.vi" Type="VI" URL="../SubVIs/Get Window Image.vi"/>
+			<Item Name="Read Monitor Resolution.vi" Type="VI" URL="../SubVIs/Read Monitor Resolution.vi"/>
+			<Item Name="Wait for Key Release.vi" Type="VI" URL="../SubVIs/Wait for Key Release.vi"/>
+		</Item>
+		<Item Name="UI Utility" Type="Folder">
+			<Item Name="Build Status Message.vi" Type="VI" URL="../SubVIs/Build Status Message.vi"/>
+			<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
+			<Item Name="Convert Hotkey to String.vi" Type="VI" URL="../SubVIs/Convert Hotkey to String.vi"/>
+			<Item Name="Display Dialog.vi" Type="VI" URL="../SubVIs/Display Dialog.vi"/>
+			<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
+			<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
+		</Item>
+		<Item Name="User-Facing" Type="Folder">
+			<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
+			<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
+		</Item>
 		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine/FaKI State Machine.lvlib"/>
-		<Item Name="Get Active VI of Active Project.vi" Type="VI" URL="../SubVIs/Get Active VI of Active Project.vi"/>
-		<Item Name="Get Control Portion Image.vi" Type="VI" URL="../SubVIs/Get Control Portion Image.vi"/>
-		<Item Name="Get Control Ref by Name.vi" Type="VI" URL="../SubVIs/Get Control Ref by Name.vi"/>
-		<Item Name="Get Image Portion.vi" Type="VI" URL="../SubVIs/Get Image Portion.vi"/>
-		<Item Name="Get Monitor Configuration.vi" Type="VI" URL="../SubVIs/Get Monitor Configuration.vi"/>
-		<Item Name="Get Monitor Total Bounds.vi" Type="VI" URL="../SubVIs/Get Monitor Total Bounds.vi"/>
-		<Item Name="Get VI Image.vi" Type="VI" URL="../SubVIs/Get VI Image.vi"/>
-		<Item Name="Get Window Image.vi" Type="VI" URL="../SubVIs/Get Window Image.vi"/>
-		<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
-		<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
-		<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
-		<Item Name="Read Config.vi" Type="VI" URL="../SubVIs/Read Config.vi"/>
-		<Item Name="Read Macro Names.vi" Type="VI" URL="../SubVIs/Read Macro Names.vi"/>
-		<Item Name="Read Monitor Resolution.vi" Type="VI" URL="../SubVIs/Read Monitor Resolution.vi"/>
-		<Item Name="Timer FGV.vi" Type="VI" URL="../SubVIs/Timer FGV.vi"/>
-		<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
-		<Item Name="Unhandled String Argument--error.vi" Type="VI" URL="../SubVIs/Unhandled String Argument--error.vi"/>
-		<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
 		<Item Name="Win Util.lvlib" Type="Library" URL="../SubVIs/Win Util/Win Util.lvlib"/>
-		<Item Name="Write Config.vi" Type="VI" URL="../SubVIs/Write Config.vi"/>
 	</Item>
 	<Item Name="MacroAssert.rtm" Type="Document" URL="../MacroAssert.rtm"/>
 	<Item Name="MacroAssert.vi" Type="VI" URL="../MacroAssert.vi"/>
