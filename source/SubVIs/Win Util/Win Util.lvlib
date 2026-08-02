@@ -22,7 +22,6 @@
 	<Item Name="Client to Screen.vi" Type="VI" URL="../Client to Screen.vi"/>
 	<Item Name="Control Window.vi" Type="VI" URL="../Control Window.vi"/>
 	<Item Name="Extract Window Origin - Size.vi" Type="VI" URL="../Extract Window Origin - Size.vi"/>
-	<Item Name="Extract Window Origin and Size.vi" Type="VI" URL="../Extract Window Origin and Size.vi"/>
 	<Item Name="Flash Title Bar.vi" Type="VI" URL="../Flash Title Bar.vi"/>
 	<Item Name="Generate String Buffer.vi" Type="VI" URL="../Generate String Buffer.vi"/>
 	<Item Name="Get Client Rectangle.vi" Type="VI" URL="../Get Client Rectangle.vi"/>
