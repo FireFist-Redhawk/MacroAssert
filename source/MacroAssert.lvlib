@@ -86,6 +86,7 @@
 			<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
 			<Item Name="Convert to Rectangle.vi" Type="VI" URL="../SubVIs/Convert to Rectangle.vi"/>
 			<Item Name="Get Active VI of Active Project.vi" Type="VI" URL="../SubVIs/Get Active VI of Active Project.vi"/>
+			<Item Name="Get All Controls Recursively.vi" Type="VI" URL="../SubVIs/Get All Controls Recursively.vi"/>
 			<Item Name="Get Control Portion Image.vi" Type="VI" URL="../SubVIs/Get Control Portion Image.vi"/>
 			<Item Name="Get Control Ref by Name.vi" Type="VI" URL="../SubVIs/Get Control Ref by Name.vi"/>
 			<Item Name="Get Image Portion.vi" Type="VI" URL="../SubVIs/Get Image Portion.vi"/>
