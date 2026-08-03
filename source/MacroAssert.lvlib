@@ -74,6 +74,8 @@
 			<Item Name="Key Down.vi" Type="VI" URL="../SubVIs/KBM Simulation/Key Down.vi"/>
 			<Item Name="Key Press.vi" Type="VI" URL="../SubVIs/KBM Simulation/Key Press.vi"/>
 			<Item Name="Key Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Key Up.vi"/>
+			<Item Name="Modifiers Down.vi" Type="VI" URL="../SubVIs/KBM Simulation/Modifiers Down.vi"/>
+			<Item Name="Modifiers Up.vi" Type="VI" URL="../SubVIs/KBM Simulation/Modifiers Up.vi"/>
 			<Item Name="Mouse Click.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Click.vi"/>
 			<Item Name="Mouse Down.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Down.vi"/>
 			<Item Name="Mouse Move.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Move.vi"/>
