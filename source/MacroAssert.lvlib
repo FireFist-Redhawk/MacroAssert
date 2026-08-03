@@ -102,6 +102,7 @@
 			<Item Name="Convert Hotkey to String.vi" Type="VI" URL="../SubVIs/Convert Hotkey to String.vi"/>
 			<Item Name="Display Dialog.vi" Type="VI" URL="../SubVIs/Display Dialog.vi"/>
 			<Item Name="Process Menu Selection.vi" Type="VI" URL="../SubVIs/Process Menu Selection.vi"/>
+			<Item Name="Show Context Buttons.vi" Type="VI" URL="../SubVIs/Show Context Buttons.vi"/>
 			<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
 		</Item>
 		<Item Name="User-Facing" Type="Folder">
