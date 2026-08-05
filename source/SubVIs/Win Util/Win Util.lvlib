@@ -41,6 +41,7 @@
 	<Item Name="Move Window to Bottom.vi" Type="VI" URL="../Move Window to Bottom.vi"/>
 	<Item Name="Move Window to Top.vi" Type="VI" URL="../Move Window to Top.vi"/>
 	<Item Name="Move Window.vi" Type="VI" URL="../Move Window.vi"/>
+	<Item Name="Normalize by DPI.vi" Type="VI" URL="../Normalize by DPI.vi"/>
 	<Item Name="Not a Window Refnum.vi" Type="VI" URL="../Not a Window Refnum.vi"/>
 	<Item Name="PostMessage Master.vi" Type="VI" URL="../PostMessage Master.vi"/>
 	<Item Name="Quit Application.vi" Type="VI" URL="../Quit Application.vi"/>
