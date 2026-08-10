@@ -24,6 +24,7 @@
 	</Item>
 	<Item Name="Client to Screen.vi" Type="VI" URL="../Client to Screen.vi"/>
 	<Item Name="Control Window.vi" Type="VI" URL="../Control Window.vi"/>
+	<Item Name="Convert Image Data to Image.vi" Type="VI" URL="../Convert Image Data to Image.vi"/>
 	<Item Name="Extract Window Origin - Size.vi" Type="VI" URL="../Extract Window Origin - Size.vi"/>
 	<Item Name="Flash Title Bar.vi" Type="VI" URL="../Flash Title Bar.vi"/>
 	<Item Name="Generate String Buffer.vi" Type="VI" URL="../Generate String Buffer.vi"/>
@@ -54,6 +55,7 @@
 	<Item Name="Resize Window.vi" Type="VI" URL="../Resize Window.vi"/>
 	<Item Name="Restore Window.vi" Type="VI" URL="../Restore Window.vi"/>
 	<Item Name="Revoke Window Always on Top.vi" Type="VI" URL="../Revoke Window Always on Top.vi"/>
+	<Item Name="Scale Image.vi" Type="VI" URL="../Scale Image.vi"/>
 	<Item Name="Set Parent.vi" Type="VI" URL="../Set Parent.vi"/>
 	<Item Name="Set Window Z-Position.vi" Type="VI" URL="../Set Window Z-Position.vi"/>
 	<Item Name="Show Window.vi" Type="VI" URL="../Show Window.vi"/>
