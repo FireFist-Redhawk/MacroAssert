@@ -80,6 +80,7 @@
 			<Item Name="Mouse Wheel.vi" Type="VI" URL="../SubVIs/KBM Simulation/Mouse Wheel.vi"/>
 		</Item>
 		<Item Name="Macro Utility" Type="Folder">
+			<Item Name="Check Control Class.vi" Type="VI" URL="../SubVIs/Check Control Class.vi"/>
 			<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
 			<Item Name="Convert to Rectangle.vi" Type="VI" URL="../SubVIs/Convert to Rectangle.vi"/>
 			<Item Name="Get Active VI of Active Project.vi" Type="VI" URL="../SubVIs/Get Active VI of Active Project.vi"/>
@@ -110,7 +111,6 @@
 		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine/FaKI State Machine.lvlib"/>
 		<Item Name="Win Util.lvlib" Type="Library" URL="../SubVIs/Win Util/Win Util.lvlib"/>
 	</Item>
-	<Item Name="Check Control Class.vi" Type="VI" URL="../SubVIs/Check Control Class.vi"/>
 	<Item Name="MacroAssert.rtm" Type="Document" URL="../MacroAssert.rtm"/>
 	<Item Name="MacroAssert.vi" Type="VI" URL="../MacroAssert.vi"/>
 </Library>
