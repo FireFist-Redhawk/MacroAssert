@@ -110,6 +110,7 @@
 			<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
 			<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
 		</Item>
+		<Item Name="Custom Errors.lvlib" Type="Library" URL="../SubVIs/Custom Errors/Custom Errors.lvlib"/>
 		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine/FaKI State Machine.lvlib"/>
 		<Item Name="Win Util.lvlib" Type="Library" URL="../SubVIs/Win Util/Win Util.lvlib"/>
 	</Item>
