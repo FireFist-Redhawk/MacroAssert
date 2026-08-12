@@ -9,6 +9,7 @@
 	<Item Name="Classes" Type="Folder">
 		<Item Name="Support" Type="Folder">
 			<Item Name="Build Control Reference Map.vi" Type="VI" URL="../Classes/Support/Build Control Reference Map.vi"/>
+			<Item Name="Build Result String.vi" Type="VI" URL="../Classes/Support/Build Result String.vi"/>
 			<Item Name="Control Name Not Found--error.vi" Type="VI" URL="../Classes/Support/Control Name Not Found--error.vi"/>
 			<Item Name="Convert Modifiers to String.vi" Type="VI" URL="../Classes/Support/Convert Modifiers to String.vi"/>
 			<Item Name="Convert Pass-Fail to String.vi" Type="VI" URL="../Classes/Support/Convert Pass-Fail to String.vi"/>
