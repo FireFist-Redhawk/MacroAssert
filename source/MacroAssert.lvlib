@@ -110,6 +110,7 @@
 		<Item Name="FaKI State Machine.lvlib" Type="Library" URL="../SubVIs/FaKI State Machine/FaKI State Machine.lvlib"/>
 		<Item Name="Win Util.lvlib" Type="Library" URL="../SubVIs/Win Util/Win Util.lvlib"/>
 	</Item>
+	<Item Name="Check Control Class.vi" Type="VI" URL="../SubVIs/Check Control Class.vi"/>
 	<Item Name="MacroAssert.rtm" Type="Document" URL="../MacroAssert.rtm"/>
 	<Item Name="MacroAssert.vi" Type="VI" URL="../MacroAssert.vi"/>
 </Library>

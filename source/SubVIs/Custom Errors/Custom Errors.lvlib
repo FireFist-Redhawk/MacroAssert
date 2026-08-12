@@ -14,5 +14,6 @@
 	<Item Name="Image Sizes Not Equal--error.vi" Type="VI" URL="../Image Sizes Not Equal--error.vi"/>
 	<Item Name="Step Type Not Supported--error.vi" Type="VI" URL="../Step Type Not Supported--error.vi"/>
 	<Item Name="Subset Rectangles Not Equal--error.vi" Type="VI" URL="../Subset Rectangles Not Equal--error.vi"/>
+	<Item Name="Unexpected Control Class--error.vi" Type="VI" URL="../Unexpected Control Class--error.vi"/>
 	<Item Name="Unhandled String Argument--error.vi" Type="VI" URL="../Unhandled String Argument--error.vi"/>
 </Library>
