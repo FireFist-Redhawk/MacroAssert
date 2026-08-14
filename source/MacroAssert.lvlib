@@ -57,11 +57,13 @@
 			<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
 		</Item>
 		<Item Name="Data Utility" Type="Folder">
+			<Item Name="App Reference FGV.vi" Type="VI" URL="../SubVIs/App Reference FGV.vi"/>
 			<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
 			<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
 			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
 			<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
 			<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
+			<Item Name="Open App Reference.vi" Type="VI" URL="../SubVIs/Open App Reference.vi"/>
 			<Item Name="Read Macro Names.vi" Type="VI" URL="../SubVIs/Read Macro Names.vi"/>
 			<Item Name="Timer FGV.vi" Type="VI" URL="../SubVIs/Timer FGV.vi"/>
 			<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
