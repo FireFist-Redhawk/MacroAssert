@@ -86,6 +86,7 @@
 			<Item Name="Check for Hotkey Press.vi" Type="VI" URL="../SubVIs/Check for Hotkey Press.vi"/>
 			<Item Name="Convert to Rectangle.vi" Type="VI" URL="../SubVIs/Convert to Rectangle.vi"/>
 			<Item Name="Get Active VI of Active Project.vi" Type="VI" URL="../SubVIs/Get Active VI of Active Project.vi"/>
+			<Item Name="Get Active VI of Runtime App Ref.vi" Type="VI" URL="../SubVIs/Get Active VI of Runtime App Ref.vi"/>
 			<Item Name="Get All Controls Recursively.vi" Type="VI" URL="../SubVIs/Get All Controls Recursively.vi"/>
 			<Item Name="Get Control Portion Image.vi" Type="VI" URL="../SubVIs/Get Control Portion Image.vi"/>
 			<Item Name="Get Control Ref by Name.vi" Type="VI" URL="../SubVIs/Get Control Ref by Name.vi"/>
@@ -93,6 +94,7 @@
 			<Item Name="Get Monitor Configuration.vi" Type="VI" URL="../SubVIs/Get Monitor Configuration.vi"/>
 			<Item Name="Get Monitor Total Bounds.vi" Type="VI" URL="../SubVIs/Get Monitor Total Bounds.vi"/>
 			<Item Name="Get VI Image.vi" Type="VI" URL="../SubVIs/Get VI Image.vi"/>
+			<Item Name="Get VI Reference.vi" Type="VI" URL="../SubVIs/Get VI Reference.vi"/>
 			<Item Name="Get Window Image.vi" Type="VI" URL="../SubVIs/Get Window Image.vi"/>
 			<Item Name="Read Monitor Resolution.vi" Type="VI" URL="../SubVIs/Read Monitor Resolution.vi"/>
 			<Item Name="Wait for Key Release.vi" Type="VI" URL="../SubVIs/Wait for Key Release.vi"/>
