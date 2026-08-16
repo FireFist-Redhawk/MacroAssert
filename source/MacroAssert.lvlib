@@ -35,6 +35,7 @@
 	</Item>
 	<Item Name="CTLs" Type="Folder">
 		<Item Name="_Template.ctt" Type="VI" URL="../CTLs/_Template.ctt"/>
+		<Item Name="App Instance.ctl" Type="VI" URL="../CTLs/App Instance.ctl"/>
 		<Item Name="Config Key.ctl" Type="VI" URL="../CTLs/Config Key.ctl"/>
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
 		<Item Name="Edit Action.ctl" Type="VI" URL="../CTLs/Edit Action.ctl"/>
@@ -59,11 +60,13 @@
 		<Item Name="Data Utility" Type="Folder">
 			<Item Name="App Reference FGV.vi" Type="VI" URL="../SubVIs/App Reference FGV.vi"/>
 			<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
+			<Item Name="Build Report Path.vi" Type="VI" URL="../SubVIs/Build Report Path.vi"/>
 			<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
 			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
 			<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
 			<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
 			<Item Name="Open App Reference.vi" Type="VI" URL="../SubVIs/Open App Reference.vi"/>
+			<Item Name="Open Project Reference.vi" Type="VI" URL="../SubVIs/Open Project Reference.vi"/>
 			<Item Name="Read Macro Names.vi" Type="VI" URL="../SubVIs/Read Macro Names.vi"/>
 			<Item Name="Timer FGV.vi" Type="VI" URL="../SubVIs/Timer FGV.vi"/>
 			<Item Name="Update State Data.vi" Type="VI" URL="../SubVIs/Update State Data.vi"/>
@@ -111,6 +114,7 @@
 		</Item>
 		<Item Name="User-Facing" Type="Folder">
 			<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
+			<Item Name="Prompt for App Instance.vi" Type="VI" URL="../SubVIs/Prompt for App Instance.vi"/>
 			<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
 		</Item>
 		<Item Name="Custom Errors.lvlib" Type="Library" URL="../SubVIs/Custom Errors/Custom Errors.lvlib"/>
