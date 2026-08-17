@@ -7,6 +7,15 @@ parent: Step descriptions
 # Mouse Action
 {: .no_toc }
 
+<details markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ---
 
 # Description
