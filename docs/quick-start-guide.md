@@ -31,6 +31,7 @@ For more detailed instructions on adding Mouse Actions, see REF.
 
 For more detailed instructions on adding Image Assertions, see REF.
 
+
 # Running a test
 
 Follow these steps to execute a MacroAssert test:
