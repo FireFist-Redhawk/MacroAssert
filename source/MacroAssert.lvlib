@@ -99,6 +99,7 @@
 			<Item Name="Get VI Image.vi" Type="VI" URL="../SubVIs/Get VI Image.vi"/>
 			<Item Name="Get VI Reference.vi" Type="VI" URL="../SubVIs/Get VI Reference.vi"/>
 			<Item Name="Get Window Image.vi" Type="VI" URL="../SubVIs/Get Window Image.vi"/>
+			<Item Name="Macro Processor.vi" Type="VI" URL="../SubVIs/Macro Processor.vi"/>
 			<Item Name="Read Monitor Resolution.vi" Type="VI" URL="../SubVIs/Read Monitor Resolution.vi"/>
 			<Item Name="Wait for Key Release.vi" Type="VI" URL="../SubVIs/Wait for Key Release.vi"/>
 		</Item>
