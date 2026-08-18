@@ -33,79 +33,58 @@ A mouse action simulates some kind of mouse event by a user. Generally speaking,
     </tr>
     <tr>
       <td width="40%"><a id="click"></a>
-        <dl>
-          <dt><b>Click</b></dt>
-          <dt>0</dt>
-        </dl>
+        <b>Click</b>
       </td>
       <td width="60%">
-      Clicks the mouse at the current coords.
+        Clicks the mouse at the current coords.
       </td>
     </tr>
     <tr>
       <td width="40%"><a id="absolute_move"></a>
-        <dl>
-          <dt><b>Absolute Move</b></dt>
-          <dt>1</dt>
-        </dl>
+        <b>Absolute Move</b>
       </td>
       <td width="60%">
-      Moves the mouse cursor to the given screen coords.
+        Moves the mouse cursor to the given screen coords.
       </td>
     </tr>
     <tr>
       <td width="40%"><a id="absolute_move_and_click"></a>
-        <dl>
-          <dt><b>Absolute Move and Click</b></dt>
-          <dt>2</dt>
-        </dl>
+        <b>Absolute Move and Click</b>
       </td>
       <td width="60%">
-      Moves the mouse cursor to the given screen coords, and clicks.
+        Moves the mouse cursor to the given screen coords, and clicks.
       </td>
     </tr>
     <tr>
       <td width="40%"><a id="relative_move"></a>
-        <dl>
-          <dt><b>Relative Move</b></dt>
-          <dt>3</dt>
-        </dl>
+        <b>Relative Move</b>
       </td>
       <td width="60%">
-      Moves the mouse cursor by the given values relative to some other object.
+        Moves the mouse cursor by the given values relative to some other object.
       </td>
     </tr>
     <tr>
       <td width="40%"><a id="relative_move_and_click"></a>
-        <dl>
-          <dt><b>Relative Move and Click</b></dt>
-          <dt>4</dt>
-        </dl>
+        <b>Relative Move and Click</b>
       </td>
       <td width="60%">
-      Moves the mouse cursor by the given values relative to some other object, and clicks.
+        Moves the mouse cursor by the given values relative to some other object, and clicks.
       </td>
     </tr>
     <tr>
       <td width="40%"><a id="wheel_up"></a>
-        <dl>
-          <dt><b>Wheel Up</b></dt>
-          <dt>5</dt>
-        </dl>
+        <b>Wheel Up</b>
       </td>
       <td width="60%">
-      Scrolls the mouse wheel up.
+        Scrolls the mouse wheel up.
       </td>
     </tr>
     <tr>
       <td width="40%"><a id="wheel_down"></a>
-        <dl>
-          <dt><b>Wheel Down</b></dt>
-          <dt>6</dt>
-        </dl>
+        <b>Wheel Down</b>
       </td>
       <td width="60%">
-      Scrolls the mouse wheel down.
+        Scrolls the mouse wheel down.
       </td>
     </tr>
   </tbody>
