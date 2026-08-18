@@ -25,33 +25,91 @@ A mouse action simulates some kind of mouse event by a user. Generally speaking,
 
 # Step subtypes
 
-## Click
-
-Clicks the mouse at the current coords.
-
-## Absolute Move
-
-Moves the mouse to the given screen coords.
-
-## Absolute Move and Click
-
-Moves the mouse to the given screen coords, and clicks.
-
-## Relative Move
-
-Moves the mouse by the given values relative to some other object.
-
-## Relative Move and Click
-
-Moves the mouse by the given values relative to some other object, and clicks.
-
-## Wheel Up
-
-Scrolls the mouse wheel up.
-
-## Wheel Down
-
-Scrolls the mouse wheel down.
+<table aria-label="Members" class="table table-sm margin-top-none" data-scrollable-table-init="">
+  <tbody>
+    <tr>
+      <th>Value</th>
+      <th>Meaning</th>
+    </tr>
+    <tr>
+      <td width="40%"><a id="click"></a>
+        <dl>
+          <dt><b>Click</b></dt>
+          <dt>0</dt>
+        </dl>
+      </td>
+      <td width="60%">
+      Clicks the mouse at the current coords.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="absolute_move"></a>
+        <dl>
+          <dt><b>Absolute Move</b></dt>
+          <dt>1</dt>
+        </dl>
+      </td>
+      <td width="60%">
+      Moves the mouse cursor to the given screen coords.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="absolute_move_and_click"></a>
+        <dl>
+          <dt><b>Absolute Move and Click</b></dt>
+          <dt>2</dt>
+        </dl>
+      </td>
+      <td width="60%">
+      Moves the mouse cursor to the given screen coords, and clicks.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="relative_move"></a>
+        <dl>
+          <dt><b>Relative Move</b></dt>
+          <dt>3</dt>
+        </dl>
+      </td>
+      <td width="60%">
+      Moves the mouse cursor by the given values relative to some other object.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="relative_move_and_click"></a>
+        <dl>
+          <dt><b>Relative Move and Click</b></dt>
+          <dt>4</dt>
+        </dl>
+      </td>
+      <td width="60%">
+      Moves the mouse cursor by the given values relative to some other object, and clicks.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="wheel_up"></a>
+        <dl>
+          <dt><b>Wheel Up</b></dt>
+          <dt>5</dt>
+        </dl>
+      </td>
+      <td width="60%">
+      Scrolls the mouse wheel up.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="wheel_down"></a>
+        <dl>
+          <dt><b>Wheel Down</b></dt>
+          <dt>6</dt>
+        </dl>
+      </td>
+      <td width="60%">
+      Scrolls the mouse wheel down.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Parameters
 
