@@ -1,7 +1,7 @@
 ---
 title: Mouse action
 nav_order: l0s001
-parent: Step descriptions
+parent: Step types
 ---
 
 # Mouse Action
@@ -28,7 +28,7 @@ A mouse action simulates some kind of mouse event by a user. Generally speaking,
 
 The specific operation to be performed. It can be one of the following values.
 
-<table class="table table-sm margin-top-none" data-scrollable-table-init="">
+<table>
   <tbody>
     <tr>
       <th>Value</th>
@@ -97,7 +97,7 @@ The specific operation to be performed. It can be one of the following values.
 
 The button to be clicked. It can be one of the following values
 
-<table data-scrollable-table-init="">
+<table>
   <tbody>
     <tr>
       <th>Value</th>
@@ -132,7 +132,40 @@ The button to be clicked. It can be one of the following values
 
 ## Click Type
 
-The type of click: Normal for a hold-and-release click, Hold for a down-only click, Release for an up-only click.
+The type of mouse click. It can be one of the following values.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Value</th>
+      <th>Meaning</th>
+    </tr>
+    <tr>
+      <td width="40%"><a id="normal"></a>
+        <b>Normal</b>
+      </td>
+      <td width="60%">
+        Presses and releases the mouse button.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="hold"></a>
+        <b>Hold</b>
+      </td>
+      <td width="60%">
+        Presses the mouse button without releasing after.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="release"></a>
+        <b>Release</b>
+      </td>
+      <td width="60%">
+        Releases the mouse button without pressing before.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Click Delay
 
@@ -142,37 +175,71 @@ The amount of time, in milliseconds, to wait between each individual operation i
 
 For a normal click, specifies the number of clicks to perform. For the `Wheel Up` and `Wheel Down` subtypes, this also specifies the number of wheel scrolls to perform.
 
-## Ctrl/Alt/Shift
+## Ctrl?/Alt?/Shift?
 
 If checked, each modifier will be held at the start of the step and released at the end of the step.
 
 ## Relative Movement Type
 
-For the `Relative Move` and `Relative Move and Click` subtypes, specifies the type of relative movement that will be performed. Note that positive movement in the X direction is to the right, and positive movement in the Y direction is down.
+For the `Relative Move` and `Relative Move and Click` subtypes, specifies the type of relative movement that will be performed. Note that positive movement in the X direction is to the right, and positive movement in the Y direction is down. It can be one of the following values.
 
-### Pixels from Current Position
+<table>
+  <tbody>
+    <tr>
+      <th>Value</th>
+      <th>Meaning</th>
+    </tr>
+    <tr>
+      <td width="40%"><a id="pixels_from_current_position"></a>
+        <b>Pixels from Current Position</b>
+      </td>
+      <td width="60%">
+        The mouse cursor will move the specified number of pixels from its current position.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="pixels_from_top_left_of_control"></a>
+        <b>Pixels from Top-Left of Control</b>
+      </td>
+      <td width="60%">
+        The mouse cursor will move to the specified number of pixels from the top-left of the specified control. Note that this uses the `Ctl.Position` property and therefore includes any labels or other visible parts of the control.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="pixels_from_top_left_of_window"></a>
+        <b>Pixels from Top-Left of Window</b>
+      </td>
+      <td width="60%">
+        The mouse cursor will move to the specified number of pixels from the top-left of the specified window. Note that this includes the window's title bar, if it has one.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="percentage_from_top_left_of_control"></a>
+        <b>Percentage from Top-Left of Control</b>
+      </td>
+      <td width="60%">
+        The mouse cursor will move to the specified percentage from the top-left of the specified control. Note that this uses the `Ctl.Position` property and therefore includes any labels or other visible parts of the control.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="percentage_from_top_left_of_window"></a>
+        <b>Percentage from Top-Left of Window</b>
+      </td>
+      <td width="60%">
+        The mouse cursor will move to the specified percentage from the top-left of the specified window. Note that this includes the window's title bar, if it has one.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="percentage_from_top_left_of_screen"></a>
+        <b>Percentage from Top-Left of Screen</b>
+      </td>
+      <td width="60%">
+        The mouse cursor will move to the specified percentage from the top-left of the entire desktop. For desktops with multiple displays, this type of movement is heavily dependent on the monitor layout. For example, for a layout of three monitors arranged horizontally, a movement of 50%/50% will put the cursor at the center of the middle monitor. If a fourth monitor is added above the left monitor, a movement of 50%/50% will put the cursor at the very top of the middle monitor.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-The mouse cursor will move the specified number of pixels from its current position.
-
-### Pixels from Top-Left of Control
-
-The mouse cursor will move to the specified number of pixels from the top-left of the specified control. Note that this uses the `Ctl.Position` property and therefore includes any labels or other visible parts of the control.
-
-### Pixels from Top-Left of Window
-
-The mouse cursor will move to the specified number of pixels from the top-left of the specified window. Note that this includes the window's title bar, if it has one.
-
-### Percentage from Top-Left of Control
-
-The mouse cursor will move to the specified percentage from the top-left of the specified control. Note that this uses the `Ctl.Position` property and therefore includes any labels or other visible parts of the control.
-
-### Percentage from Top-Left of Window
-
-The mouse cursor will move to the specified percentage from the top-left of the specified window. Note that this includes the window's title bar, if it has one.
-
-### Percentage from Top-Left of Window
-
-The mouse cursor will move to the specified percentage from the top-left of the entire desktop. For desktops with multiple displays, this type of movement is heavily dependent on the monitor layout. For example, for a layout of three monitors arranged horizontally, a movement of 50%/50% will put the cursor at the center of the middle monitor. If a fourth monitor is added above the left monitor, a movement of 50%/50% will put the cursor at the very top of the middle monitor.
 
 ## Relative Object Name
 

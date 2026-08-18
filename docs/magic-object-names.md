@@ -1,6 +1,6 @@
 ---
 title: Magic object names
-nav_order: l0s003
+nav_order: l0s004
 ---
 
 # Magic object names
@@ -24,7 +24,7 @@ This stands in place of a VI name in any step that requires a VI name as its obj
 
 It is obtained by iterating through every VI in memory and finding the one whose `FP.IsFrontmost` property value is `TRUE`.
 
-**Note:** currently, any step that requires a control name as its object name looks in **VI_ACTIVE** for the referenced control.
+**Note:** currently, any step that requires a control name as its object name looks scans the frontmost VI for the referenced control.
 
 
 ## WIN_FOREGROUND
@@ -38,6 +38,6 @@ It is obtained by calling the `GetForegroundWindow` function in `user32.dll`.
 
 There are some exceptions to the use of these magic object names:
 
-- The <b>Boolean Assertion &rarr; VI Front Panel is Open</b> step will not use **VI_ACTIVE** in place of an actual VI name.
-- The <b>String Assertion &rarr; Frontmost VI Name</b> step will not use **VI_ACTIVE** in place of an actual VI name.
-- The <b>String Assertion &rarr; Frontmost Window Name</b> step will not use **WIN_FOREGROUND** in place of an actual window name.
+- The <code>Boolean Assertion &rarr; VI Front Panel is Open</code> step will not use `VI_ACTIVE` in place of an actual VI name.
+- The <code>String Assertion &rarr; Frontmost VI Name</code> step will not use `VI_ACTIVE` in place of an actual VI name.
+- The <code>String Assertion &rarr; Frontmost Window Name</code> step will not use `WIN_FOREGROUND` in place of an actual window name.
