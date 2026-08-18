@@ -20,12 +20,15 @@ parent: Step descriptions
 
 # Description
 
-A mouse action simulates some kind of mouse event by a user. Generally speaking, this includes moving the mouse, clicking the mouse, and scrolling the wheel of the mouse.
+A mouse action simulates some kind of mouse event by a user. Generally speaking, this includes clicking the mouse, moving the mouse cursor, and scrolling the wheel of the mouse.
 
+# Parameters
 
-# Step subtypes
+## Step Subtype
 
-<table aria-label="Members" class="table table-sm margin-top-none" data-scrollable-table-init="">
+The specific operation to be performed. It can be one of the following values.
+
+<table class="table table-sm margin-top-none" data-scrollable-table-init="">
   <tbody>
     <tr>
       <th>Value</th>
@@ -90,11 +93,42 @@ A mouse action simulates some kind of mouse event by a user. Generally speaking,
   </tbody>
 </table>
 
-# Parameters
-
 ## Button
 
-The button to be clicked: Left for left click, Right for right click, Middle for middle click (clicking in on the scroll wheel).
+The button to be clicked. It can be one of the following values
+
+<table data-scrollable-table-init="">
+  <tbody>
+    <tr>
+      <th>Value</th>
+      <th>Meaning</th>
+    </tr>
+    <tr>
+      <td width="40%"><a id="left"></a>
+        <b>Left</b>
+      </td>
+      <td width="60%">
+        Clicks the left mouse button.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="right"></a>
+        <b>Right</b>
+      </td>
+      <td width="60%">
+        Clicks the right mouse button.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="middle"></a>
+        <b>Middle</b>
+      </td>
+      <td width="60%">
+        Clicks the middle mouse button (the scroll wheel).
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Click Type
 
