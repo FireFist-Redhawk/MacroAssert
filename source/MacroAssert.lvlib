@@ -114,6 +114,7 @@
 			<Item Name="UI Interlocks.vi" Type="VI" URL="../SubVIs/UI Interlocks.vi"/>
 		</Item>
 		<Item Name="User-Facing" Type="Folder">
+			<Item Name="About.vi" Type="VI" URL="../SubVIs/About.vi"/>
 			<Item Name="Edit Options.vi" Type="VI" URL="../SubVIs/Edit Options.vi"/>
 			<Item Name="Prompt for App Instance.vi" Type="VI" URL="../SubVIs/Prompt for App Instance.vi"/>
 			<Item Name="Prompt for Step.vi" Type="VI" URL="../SubVIs/Prompt for Step.vi"/>
