@@ -125,4 +125,5 @@
 	</Item>
 	<Item Name="MacroAssert.rtm" Type="Document" URL="../MacroAssert.rtm"/>
 	<Item Name="MacroAssert.vi" Type="VI" URL="../MacroAssert.vi"/>
+	<Item Name="Open Default App Reference.vi" Type="VI" URL="../SubVIs/Open Default App Reference.vi"/>
 </Library>

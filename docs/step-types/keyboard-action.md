@@ -1,10 +1,10 @@
 ---
-title: Mouse Action
-nav_order: l0s001
+title: Keyboard Action
+nav_order: l0s002
 parent: Step types
 ---
 
-# Mouse Action
+# Keyboard Action
 {: .no_toc }
 
 <details markdown="block">
@@ -20,7 +20,7 @@ parent: Step types
 
 # Description
 
-A mouse action simulates some kind of mouse event by a user. Generally speaking, this includes clicking the mouse, moving the mouse cursor, and scrolling the wheel of the mouse.
+A keyboard action simulates some kind of keyboard event by a user. Generally speaking, this includes pressing one or more keys.
 
 # Parameters
 
@@ -35,145 +35,51 @@ The specific operation to be performed. It can be one of the following values.
       <th>Meaning</th>
     </tr>
     <tr>
-      <td width="40%"><a id="click"></a>
-        <b>Click</b>
+      <td width="40%"><a id="key_press"></a>
+        <b>Key Press</b>
       </td>
       <td width="60%">
-        Clicks the mouse at the current coords.
+        Presses and releases the given key.
       </td>
     </tr>
     <tr>
-      <td width="40%"><a id="absolute_move"></a>
-        <b>Absolute Move</b>
+      <td width="40%"><a id="key_sequence"></a>
+        <b>Key Sequence</b>
       </td>
       <td width="60%">
-        Moves the mouse cursor to the given screen coords.
+        Presses the given sequence of keys, including any capitalization.
       </td>
     </tr>
     <tr>
-      <td width="40%"><a id="absolute_move_and_click"></a>
-        <b>Absolute Move and Click</b>
+      <td width="40%"><a id="key_down"></a>
+        <b>Key Down</b>
       </td>
       <td width="60%">
-        Moves the mouse cursor to the given screen coords, and clicks.
+        Presses the given key without releasing after.
       </td>
     </tr>
     <tr>
-      <td width="40%"><a id="relative_move"></a>
-        <b>Relative Move</b>
+      <td width="40%"><a id="key_up"></a>
+        <b>Key Up</b>
       </td>
       <td width="60%">
-        Moves the mouse cursor by the given values relative to some other object.
-      </td>
-    </tr>
-    <tr>
-      <td width="40%"><a id="relative_move_and_click"></a>
-        <b>Relative Move and Click</b>
-      </td>
-      <td width="60%">
-        Moves the mouse cursor by the given values relative to some other object, and clicks.
-      </td>
-    </tr>
-    <tr>
-      <td width="40%"><a id="wheel_up"></a>
-        <b>Wheel Up</b>
-      </td>
-      <td width="60%">
-        Scrolls the mouse wheel up.
-      </td>
-    </tr>
-    <tr>
-      <td width="40%"><a id="wheel_down"></a>
-        <b>Wheel Down</b>
-      </td>
-      <td width="60%">
-        Scrolls the mouse wheel down.
+        Releases the given key without pressing first.
       </td>
     </tr>
   </tbody>
 </table>
 
-## Button
+## Key
 
-The button to be clicked. It can be one of the following values.
+For the `Key Press`, `Key Down`, and `Key Up` subtypes, the key to be pressed. The value of the key is equivalent to its ASCII representation.
 
-<table>
-  <tbody>
-    <tr>
-      <th>Value</th>
-      <th>Meaning</th>
-    </tr>
-    <tr>
-      <td width="40%"><a id="left"></a>
-        <b>Left</b>
-      </td>
-      <td width="60%">
-        Clicks the left mouse button.
-      </td>
-    </tr>
-    <tr>
-      <td width="40%"><a id="right"></a>
-        <b>Right</b>
-      </td>
-      <td width="60%">
-        Clicks the right mouse button.
-      </td>
-    </tr>
-    <tr>
-      <td width="40%"><a id="middle"></a>
-        <b>Middle</b>
-      </td>
-      <td width="60%">
-        Clicks the middle mouse button (the scroll wheel).
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Key Sequence
 
-## Click Type
+For the `Key Sequence` subtype, the key sequence to be pressed. The string gets translated to a sequence of key presses that, when executed, will simulate everything in the string, including newlines and capitalized letters.
 
-The type of mouse click. It can be one of the following values.
+## Key Delay
 
-<table>
-  <tbody>
-    <tr>
-      <th>Value</th>
-      <th>Meaning</th>
-    </tr>
-    <tr>
-      <td width="40%"><a id="normal"></a>
-        <b>Normal</b>
-      </td>
-      <td width="60%">
-        Presses and releases the mouse button.
-      </td>
-    </tr>
-    <tr>
-      <td width="40%"><a id="hold"></a>
-        <b>Hold</b>
-      </td>
-      <td width="60%">
-        Presses the mouse button without releasing after.
-      </td>
-    </tr>
-    <tr>
-      <td width="40%"><a id="release"></a>
-        <b>Release</b>
-      </td>
-      <td width="60%">
-        Releases the mouse button without pressing before.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Click Delay
-
-The amount of time, in milliseconds, to wait between each individual operation in the step. Note that this also includes the holding and releasing of the modifier keys, if any are selected.
-
-## Click Count
-
-For a normal click, specifies the number of clicks to perform. For the `Wheel Up` and `Wheel Down` subtypes, this also specifies the number of wheel scrolls to perform.
+The amount of time, in milliseconds, to wait between each individual operation in the step. Note that this also includes the holding and releasing of the modifier keys, if any are selected. For the `Key Sequence` subtype, this also includes the pressing and releasing of the <kbd>Shift</kbd> key for the capitalization of each letter.
 
 ## Ctrl?/Alt?/Shift?
 
