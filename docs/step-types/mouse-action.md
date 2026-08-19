@@ -47,7 +47,7 @@ The specific operation to be performed. It can be one of the following values.
         <b>Absolute Move</b>
       </td>
       <td width="60%">
-        Moves the mouse cursor to the given screen coords.
+        Moves the mouse cursor to the specified screen coords.
       </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@ The specific operation to be performed. It can be one of the following values.
         <b>Absolute Move and Click</b>
       </td>
       <td width="60%">
-        Moves the mouse cursor to the given screen coords, and clicks.
+        Moves the mouse cursor to the specified screen coords, and clicks.
       </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ The specific operation to be performed. It can be one of the following values.
         <b>Relative Move</b>
       </td>
       <td width="60%">
-        Moves the mouse cursor by the given values relative to some other object.
+        Moves the mouse cursor by the specified values relative to some other object.
       </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@ The specific operation to be performed. It can be one of the following values.
         <b>Relative Move and Click</b>
       </td>
       <td width="60%">
-        Moves the mouse cursor by the given values relative to some other object, and clicks.
+        Moves the mouse cursor by the specified values relative to some other object, and clicks.
       </td>
     </tr>
     <tr>
@@ -250,7 +250,7 @@ For the `Relative Move` and `Relative Move and Click` subtypes, specifies the co
 For movement-based subtypes, specifies the amount of pixels or percentage to move or move relative to.
 
 
-# Specifying coordinates
+# Remarks
 
 When the **Enter Step** window is in a Mouse-Action context, the window is constantly listening for a macro hotkey press. When the hotkey press is detected, the values of **X** and **Y** will automatically populate with the current screen coordinates.
 
