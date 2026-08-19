@@ -58,14 +58,17 @@
 			<Item Name="Default Config--constant.vi" Type="VI" URL="../SubVIs/Default Config--constant.vi"/>
 		</Item>
 		<Item Name="Data Utility" Type="Folder">
+			<Item Name="Add App Ref if Non-Existant.vi" Type="VI" URL="../SubVIs/Add App Ref if Non-Existant.vi"/>
 			<Item Name="App Reference FGV.vi" Type="VI" URL="../SubVIs/App Reference FGV.vi"/>
 			<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
 			<Item Name="Build Report Path.vi" Type="VI" URL="../SubVIs/Build Report Path.vi"/>
 			<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
 			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
 			<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
+			<Item Name="Get Project Path from App Ref.vi" Type="VI" URL="../SubVIs/Get Project Path from App Ref.vi"/>
 			<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
 			<Item Name="Open App Reference.vi" Type="VI" URL="../SubVIs/Open App Reference.vi"/>
+			<Item Name="Open Default App Reference.vi" Type="VI" URL="../SubVIs/Open Default App Reference.vi"/>
 			<Item Name="Open Project Reference.vi" Type="VI" URL="../SubVIs/Open Project Reference.vi"/>
 			<Item Name="Read Macro Names.vi" Type="VI" URL="../SubVIs/Read Macro Names.vi"/>
 			<Item Name="Timer FGV.vi" Type="VI" URL="../SubVIs/Timer FGV.vi"/>
@@ -125,5 +128,4 @@
 	</Item>
 	<Item Name="MacroAssert.rtm" Type="Document" URL="../MacroAssert.rtm"/>
 	<Item Name="MacroAssert.vi" Type="VI" URL="../MacroAssert.vi"/>
-	<Item Name="Open Default App Reference.vi" Type="VI" URL="../SubVIs/Open Default App Reference.vi"/>
 </Library>
