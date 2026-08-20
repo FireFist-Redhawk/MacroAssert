@@ -96,6 +96,7 @@
 			<Item Name="Get All Controls Recursively.vi" Type="VI" URL="../SubVIs/Get All Controls Recursively.vi"/>
 			<Item Name="Get Control Portion Image.vi" Type="VI" URL="../SubVIs/Get Control Portion Image.vi"/>
 			<Item Name="Get Control Ref by Name.vi" Type="VI" URL="../SubVIs/Get Control Ref by Name.vi"/>
+			<Item Name="Get Controls in Cluster.vi" Type="VI" URL="../SubVIs/Get Controls in Cluster.vi"/>
 			<Item Name="Get Controls in Tab Control.vi" Type="VI" URL="../SubVIs/Get Controls in Tab Control.vi"/>
 			<Item Name="Get Monitor Configuration.vi" Type="VI" URL="../SubVIs/Get Monitor Configuration.vi"/>
 			<Item Name="Get Monitor Total Bounds.vi" Type="VI" URL="../SubVIs/Get Monitor Total Bounds.vi"/>
