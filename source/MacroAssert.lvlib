@@ -9,10 +9,12 @@
 	<Item Name="Classes" Type="Folder">
 		<Item Name="Support" Type="Folder">
 			<Item Name="Build Control Reference Map.vi" Type="VI" URL="../Classes/Support/Build Control Reference Map.vi"/>
+			<Item Name="Build Metadata String.vi" Type="VI" URL="../Classes/Support/Build Metadata String.vi"/>
 			<Item Name="Build Result String.vi" Type="VI" URL="../Classes/Support/Build Result String.vi"/>
 			<Item Name="Convert Modifiers to String.vi" Type="VI" URL="../Classes/Support/Convert Modifiers to String.vi"/>
 			<Item Name="Convert Pass-Fail to String.vi" Type="VI" URL="../Classes/Support/Convert Pass-Fail to String.vi"/>
 			<Item Name="Convert Step Index to Section Name.vi" Type="VI" URL="../Classes/Support/Convert Step Index to Section Name.vi"/>
+			<Item Name="Convert to Result.vi" Type="VI" URL="../Classes/Support/Convert to Result.vi"/>
 			<Item Name="Get Control Reference by Label (0D STR).vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label (0D STR).vi"/>
 			<Item Name="Get Control Reference by Label (1D STR).vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label (1D STR).vi"/>
 			<Item Name="Get Control Reference by Label.vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label.vi"/>
@@ -45,6 +47,7 @@
 		<Item Name="Prompt for Step State Data.ctl" Type="VI" URL="../CTLs/Prompt for Step State Data.ctl"/>
 		<Item Name="Refs.ctl" Type="VI" URL="../CTLs/Refs.ctl"/>
 		<Item Name="Report Data.ctl" Type="VI" URL="../CTLs/Report Data.ctl"/>
+		<Item Name="Result.ctl" Type="VI" URL="../CTLs/Result.ctl"/>
 		<Item Name="State Data.ctl" Type="VI" URL="../CTLs/State Data.ctl"/>
 		<Item Name="Step Type V3.ctl" Type="VI" URL="../CTLs/Step Type V3.ctl"/>
 	</Item>
@@ -62,10 +65,13 @@
 			<Item Name="App Reference FGV.vi" Type="VI" URL="../SubVIs/App Reference FGV.vi"/>
 			<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
 			<Item Name="Build Report Path.vi" Type="VI" URL="../SubVIs/Build Report Path.vi"/>
+			<Item Name="Convert Boolean to Disabled Enum.vi" Type="VI" URL="../SubVIs/Convert Boolean to Disabled Enum.vi"/>
 			<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
 			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
+			<Item Name="Convert to Valid File Name.vi" Type="VI" URL="../SubVIs/Convert to Valid File Name.vi"/>
 			<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
 			<Item Name="Get Project Path from App Ref.vi" Type="VI" URL="../SubVIs/Get Project Path from App Ref.vi"/>
+			<Item Name="Initialize Results Array.vi" Type="VI" URL="../SubVIs/Initialize Results Array.vi"/>
 			<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
 			<Item Name="Open App Reference.vi" Type="VI" URL="../SubVIs/Open App Reference.vi"/>
 			<Item Name="Open Default App Reference.vi" Type="VI" URL="../SubVIs/Open Default App Reference.vi"/>
