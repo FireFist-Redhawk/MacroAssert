@@ -28,10 +28,13 @@
 	<Item Name="Extract Window Origin - Size.vi" Type="VI" URL="../Extract Window Origin - Size.vi"/>
 	<Item Name="Flash Title Bar.vi" Type="VI" URL="../Flash Title Bar.vi"/>
 	<Item Name="Generate String Buffer.vi" Type="VI" URL="../Generate String Buffer.vi"/>
+	<Item Name="Get All Monitor DPIs.vi" Type="VI" URL="../Get All Monitor DPIs.vi"/>
 	<Item Name="Get Client Rectangle.vi" Type="VI" URL="../Get Client Rectangle.vi"/>
 	<Item Name="Get Cursor Info.vi" Type="VI" URL="../Get Cursor Info.vi"/>
 	<Item Name="Get Foreground Window.vi" Type="VI" URL="../Get Foreground Window.vi"/>
 	<Item Name="Get Image Data From PictureBox.vi" Type="VI" URL="../Get Image Data From PictureBox.vi"/>
+	<Item Name="Get Monitor DPI.vi" Type="VI" URL="../Get Monitor DPI.vi"/>
+	<Item Name="Get Monitor from Rectangle.vi" Type="VI" URL="../Get Monitor from Rectangle.vi"/>
 	<Item Name="Get VI FrontPanel RefNum.vi" Type="VI" URL="../Get VI FrontPanel RefNum.vi"/>
 	<Item Name="Get VI RefNum.vi" Type="VI" URL="../Get VI RefNum.vi"/>
 	<Item Name="Get Window DPI.vi" Type="VI" URL="../Get Window DPI.vi"/>
