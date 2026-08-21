@@ -66,6 +66,7 @@
 			<Item Name="Build Path to Macro.vi" Type="VI" URL="../SubVIs/Build Path to Macro.vi"/>
 			<Item Name="Build Report Path.vi" Type="VI" URL="../SubVIs/Build Report Path.vi"/>
 			<Item Name="Convert Boolean to Disabled Enum.vi" Type="VI" URL="../SubVIs/Convert Boolean to Disabled Enum.vi"/>
+			<Item Name="Convert Boolean to String.vi" Type="VI" URL="../SubVIs/Convert Boolean to String.vi"/>
 			<Item Name="Convert Hex String to String.vi" Type="VI" URL="../SubVIs/Convert Hex String to String.vi"/>
 			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
 			<Item Name="Convert to Valid File Name.vi" Type="VI" URL="../SubVIs/Convert to Valid File Name.vi"/>
