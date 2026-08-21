@@ -11,6 +11,7 @@
 	<Item Name="5001 Step Type Not Supported.vi" Type="VI" URL="../5001 Step Type Not Supported.vi"/>
 	<Item Name="5002 Unhandled String Argument.vi" Type="VI" URL="../5002 Unhandled String Argument.vi"/>
 	<Item Name="5003 Duplicate Control Names.vi" Type="VI" URL="../5003 Duplicate Control Names.vi"/>
+	<Item Name="5004 VI Name Not Found.vi" Type="VI" URL="../5004 VI Name Not Found.vi"/>
 	<Item Name="5005 Control Name Not Found.vi" Type="VI" URL="../5005 Control Name Not Found.vi"/>
 	<Item Name="5006 Unexpected Control Class.vi" Type="VI" URL="../5006 Unexpected Control Class.vi"/>
 	<Item Name="5009 Subset Rectangles Not Equal.vi" Type="VI" URL="../5009 Subset Rectangles Not Equal.vi"/>
