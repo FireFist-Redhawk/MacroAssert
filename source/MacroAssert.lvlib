@@ -43,13 +43,13 @@
 		<Item Name="Edit Action.ctl" Type="VI" URL="../CTLs/Edit Action.ctl"/>
 		<Item Name="FGV Actions.ctl" Type="VI" URL="../CTLs/FGV Actions.ctl"/>
 		<Item Name="Hotkey Type.ctl" Type="VI" URL="../CTLs/Hotkey Type.ctl"/>
-		<Item Name="Macro Config V3.ctl" Type="VI" URL="../CTLs/Macro Config V3.ctl"/>
+		<Item Name="Macro Config v1.ctl" Type="VI" URL="../CTLs/Macro Config v1.ctl"/>
 		<Item Name="Outcome.ctl" Type="VI" URL="../CTLs/Outcome.ctl"/>
 		<Item Name="Prompt for Step State Data.ctl" Type="VI" URL="../CTLs/Prompt for Step State Data.ctl"/>
 		<Item Name="Refs.ctl" Type="VI" URL="../CTLs/Refs.ctl"/>
 		<Item Name="Result.ctl" Type="VI" URL="../CTLs/Result.ctl"/>
 		<Item Name="State Data.ctl" Type="VI" URL="../CTLs/State Data.ctl"/>
-		<Item Name="Step Type V3.ctl" Type="VI" URL="../CTLs/Step Type V3.ctl"/>
+		<Item Name="Step Type v1.ctl" Type="VI" URL="../CTLs/Step Type v1.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Configuration" Type="Folder">
