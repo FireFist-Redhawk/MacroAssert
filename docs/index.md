@@ -7,7 +7,7 @@ toc: false
 
 # MacroAssert
 
-MacroAssert is a LabVIEW tool that allows the user to create sequences of highly configurable steps that can be used to test user interfaces. The goal is to provide an intuitive tool for creating reliable UI tests that are agnostic to changes in display scale, monitor resolution, and front panel control positions.
+MacroAssert is a free, open-source tool that allows the user to create sequences of highly configurable steps that can be used to test user interfaces. The goal is to provide an intuitive tool for creating reliable UI tests that are agnostic to changes in display scale, monitor resolution, and front panel control positions.
 
 
 ## Features
