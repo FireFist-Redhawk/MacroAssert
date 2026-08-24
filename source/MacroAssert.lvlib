@@ -14,7 +14,7 @@
 			<Item Name="Convert Modifiers to String.vi" Type="VI" URL="../Classes/Support/Convert Modifiers to String.vi"/>
 			<Item Name="Convert Pass-Fail to String.vi" Type="VI" URL="../Classes/Support/Convert Pass-Fail to String.vi"/>
 			<Item Name="Convert Step Index to Section Name.vi" Type="VI" URL="../Classes/Support/Convert Step Index to Section Name.vi"/>
-			<Item Name="Convert to Result.vi" Type="VI" URL="../Classes/Support/Convert to Result.vi"/>
+			<Item Name="Convert to Outcome.vi" Type="VI" URL="../Classes/Support/Convert to Outcome.vi"/>
 			<Item Name="Get Control Reference by Label (0D STR).vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label (0D STR).vi"/>
 			<Item Name="Get Control Reference by Label (1D STR).vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label (1D STR).vi"/>
 			<Item Name="Get Control Reference by Label.vi" Type="VI" URL="../Classes/Support/Get Control Reference by Label.vi"/>
@@ -44,9 +44,9 @@
 		<Item Name="FGV Actions.ctl" Type="VI" URL="../CTLs/FGV Actions.ctl"/>
 		<Item Name="Hotkey Type.ctl" Type="VI" URL="../CTLs/Hotkey Type.ctl"/>
 		<Item Name="Macro Config V3.ctl" Type="VI" URL="../CTLs/Macro Config V3.ctl"/>
+		<Item Name="Outcome.ctl" Type="VI" URL="../CTLs/Outcome.ctl"/>
 		<Item Name="Prompt for Step State Data.ctl" Type="VI" URL="../CTLs/Prompt for Step State Data.ctl"/>
 		<Item Name="Refs.ctl" Type="VI" URL="../CTLs/Refs.ctl"/>
-		<Item Name="Report Data.ctl" Type="VI" URL="../CTLs/Report Data.ctl"/>
 		<Item Name="Result.ctl" Type="VI" URL="../CTLs/Result.ctl"/>
 		<Item Name="State Data.ctl" Type="VI" URL="../CTLs/State Data.ctl"/>
 		<Item Name="Step Type V3.ctl" Type="VI" URL="../CTLs/Step Type V3.ctl"/>

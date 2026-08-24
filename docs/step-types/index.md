@@ -96,13 +96,14 @@ The delay, in milliseconds, after a step finishes, before proceeding to the next
 
 The number of times to repeat the step. A value of 0 specifies to repeat the step 0 times, meaning the step is performed one time.
 
+## Abort on Fail?
+
+Specifies whether to automatically abort the macro if the step fails or if an error occurs during the execution of the step.
+
 ## Step Notes
 
 A note of what the step is meant to do or test.
 
-## Stop on Fail?
-
-Specifies whether to automatically abort the macro if an assertion fails. This parameter only applies to assertion steps.
 
 # Remarks
 
