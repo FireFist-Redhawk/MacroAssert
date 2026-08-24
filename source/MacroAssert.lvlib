@@ -105,7 +105,6 @@
 			<Item Name="Get Control Ref by Name.vi" Type="VI" URL="../SubVIs/Get Control Ref by Name.vi"/>
 			<Item Name="Get Controls in Cluster.vi" Type="VI" URL="../SubVIs/Get Controls in Cluster.vi"/>
 			<Item Name="Get Controls in Tab Control.vi" Type="VI" URL="../SubVIs/Get Controls in Tab Control.vi"/>
-			<Item Name="Get Monitor Configuration.vi" Type="VI" URL="../SubVIs/Get Monitor Configuration.vi"/>
 			<Item Name="Get Monitor Total Bounds.vi" Type="VI" URL="../SubVIs/Get Monitor Total Bounds.vi"/>
 			<Item Name="Get VI Image.vi" Type="VI" URL="../SubVIs/Get VI Image.vi"/>
 			<Item Name="Get VI Reference.vi" Type="VI" URL="../SubVIs/Get VI Reference.vi"/>
@@ -115,6 +114,7 @@
 			<Item Name="Wait for Key Release.vi" Type="VI" URL="../SubVIs/Wait for Key Release.vi"/>
 		</Item>
 		<Item Name="UI Utility" Type="Folder">
+			<Item Name="Build Display Preview.vi" Type="VI" URL="../SubVIs/Build Display Preview.vi"/>
 			<Item Name="Build Status Message.vi" Type="VI" URL="../SubVIs/Build Status Message.vi"/>
 			<Item Name="Center Dialog on Caller.vi" Type="VI" URL="../SubVIs/Center Dialog on Caller.vi"/>
 			<Item Name="Convert Hotkey to String.vi" Type="VI" URL="../SubVIs/Convert Hotkey to String.vi"/>

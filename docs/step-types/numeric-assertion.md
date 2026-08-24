@@ -107,11 +107,19 @@ The specific operation to be performed. It can be one of the following values.
       </td>
     </tr>
     <tr>
-      <td width="40%"><a id="number_of_monitors"></a>
-        <b>Number of Monitors</b>
+      <td width="40%"><a id="number_of_displays"></a>
+        <b>Number of Displays</b>
       </td>
       <td width="60%">
-        Checks the current number of monitors against the specified value.
+        Checks the current number of displays against the specified value.
+      </td>
+    </tr>
+    <tr>
+      <td width="40%"><a id="highest_display_scale"></a>
+        <b>Highest Display Scale</b>
+      </td>
+      <td width="60%">
+        Checks the highest display scale of all displays, given in percent, against the specified value.
       </td>
     </tr>
   </tbody>
@@ -123,7 +131,7 @@ The type of comparison (comparator) to use when performing the comparison of the
 
 ## Object Name
 
-For all subtypes except `Number of Monitors`, the name of the object referenced in the assertion. It can be a control name, VI name, or window name.
+For all subtypes except `Number of Displays` and `Highest Display Scale`, the name of the object referenced in the assertion. It can be a control name, VI name, or window name.
 
 ## Comparison Value
 
