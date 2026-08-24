@@ -22,7 +22,7 @@ There are currently two magic object names. They are case-sensitive and must be 
 
 This stands in place of a VI name in any step that requires a VI name as its object name. It represents the active VI, meaning the VI that is frontmost.
 
-It is obtained by iterating through every VI in memory and finding the one whose `FP.IsFrontmost` property value is `TRUE`.
+When used on a Development-System application instance, it is obtained by using the `App.GetActiveVIRef` method. When used on a Run-Time-System application instance, it is obtained by iterating through every VI in memory and finding the one whose `FP.IsFrontmost` property value is `TRUE`.
 
 **Note:** currently, any step that requires a control name as its object name looks scans the frontmost VI for the referenced control.
 
