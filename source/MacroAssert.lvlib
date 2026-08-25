@@ -73,8 +73,10 @@
 			<Item Name="Get All VIs in Memory.vi" Type="VI" URL="../SubVIs/Get All VIs in Memory.vi"/>
 			<Item Name="Get App Port.vi" Type="VI" URL="../SubVIs/Get App Port.vi"/>
 			<Item Name="Get Project Path from App Ref.vi" Type="VI" URL="../SubVIs/Get Project Path from App Ref.vi"/>
+			<Item Name="Get VI Clone Names.vi" Type="VI" URL="../SubVIs/Get VI Clone Names.vi"/>
 			<Item Name="Initialize Results Array.vi" Type="VI" URL="../SubVIs/Initialize Results Array.vi"/>
 			<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
+			<Item Name="Is VI Front Panel Open.vi" Type="VI" URL="../SubVIs/Is VI Front Panel Open.vi"/>
 			<Item Name="Open App Reference.vi" Type="VI" URL="../SubVIs/Open App Reference.vi"/>
 			<Item Name="Open Default App Reference.vi" Type="VI" URL="../SubVIs/Open Default App Reference.vi"/>
 			<Item Name="Open Project Reference.vi" Type="VI" URL="../SubVIs/Open Project Reference.vi"/>
