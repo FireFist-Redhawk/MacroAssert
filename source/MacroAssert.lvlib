@@ -73,6 +73,7 @@
 			<Item Name="Get All VIs in Memory.vi" Type="VI" URL="../SubVIs/Get All VIs in Memory.vi"/>
 			<Item Name="Get App Port.vi" Type="VI" URL="../SubVIs/Get App Port.vi"/>
 			<Item Name="Get Project Path from App Ref.vi" Type="VI" URL="../SubVIs/Get Project Path from App Ref.vi"/>
+			<Item Name="Get True Owning Pane.vi" Type="VI" URL="../SubVIs/Get True Owning Pane.vi"/>
 			<Item Name="Get VI Clone Names.vi" Type="VI" URL="../SubVIs/Get VI Clone Names.vi"/>
 			<Item Name="Initialize Results Array.vi" Type="VI" URL="../SubVIs/Initialize Results Array.vi"/>
 			<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>

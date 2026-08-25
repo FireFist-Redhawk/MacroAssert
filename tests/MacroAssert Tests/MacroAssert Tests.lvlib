@@ -16,5 +16,5 @@
 		<Item Name="Message Queue.lvlib" Type="Library" URL="../SubVIs/Message Queue/Message Queue.lvlib"/>
 		<Item Name="User Event - Stop.lvlib" Type="Library" URL="../SubVIs/User Event - Stop/User Event - Stop.lvlib"/>
 	</Item>
-	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="MacroAssert Tests.vi" Type="VI" URL="../MacroAssert Tests.vi"/>
 </Library>
