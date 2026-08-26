@@ -35,3 +35,14 @@ At the time of writing, this project is actively maintained. If you find a bug o
 ## Contributing
 
 If you find this tool useful, please consider starring the VIPM package and Github repository to show your support. If you would like to contribute directly, fork the `develop` branch of the repository and open a pull request.
+
+
+## Kudos
+
+I have used resources from other people to achieve some of the functionality of this tool. I wanted to recognize those people here.
+
+- rolfk for making a [this library](https://forums.ni.com/t5/LabVIEW/How-to-run-an-exe-as-a-window-inside-a-VI/m-p/4096356#M1179928), which is a 64-bit-compatible version of [WINUTL.LLB](https://forums.ni.com/t5/Example-Code/Windows-API-Function-Utilities-32-bit-for-LabVIEW/ta-p/3996462).
+- Hooovahh for making [these VIs](https://forums.ni.com/t5/LabVIEW/Get-Mouse-Cursor/m-p/3229067#M938933), which get the image of a mouse cursor icon.
+- paul_a_cardinale for making [this VI](https://forums.ni.com/t5/LabVIEW/All-VIs-in-Memory-Including-Clones/m-p/4414553#M1301272), which gets all clones of a VI.
+- crossrulz for making [this VI](https://github.com/ni/labview-icon-editor/blob/develop/resource/plugins/NIIconEditor/User%20Dialogs/SubVIs/Center%20Dialog%20on%20Caller.vi), which centers a dialog on the calling VI.
+- dadreamer for [these posts](https://forums.ni.com/t5/Community-Documents/Simulated-Keyboard-Entries-Using-User32-DLL-Functions/ta-p/3539441), which explain (1) how make [SendInput](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput) work in either 32-bit or 64-bit, and (2) how the <kbd>Return</kbd> key creates an edge case that needs to be accounted for.
