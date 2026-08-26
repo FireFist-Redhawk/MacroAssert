@@ -202,7 +202,7 @@ For the `Relative Move` and `Relative Move and Click` subtypes, specifies the ty
         <b>Pixels from Top-Left of Control</b>
       </td>
       <td width="60%">
-        The mouse cursor will move to the specified number of pixels from the top-left of the specified control. Note that this uses the `Ctl.Position` property and therefore includes any labels or other visible parts of the control.
+        The mouse cursor will move to the specified number of pixels from the top-left of the specified control. Note that this uses the <code>Ctl.Position</code> property and therefore includes any labels or other visible parts of the control.
       </td>
     </tr>
     <tr>
@@ -218,7 +218,7 @@ For the `Relative Move` and `Relative Move and Click` subtypes, specifies the ty
         <b>Percentage from Top-Left of Control</b>
       </td>
       <td width="60%">
-        The mouse cursor will move to the specified percentage from the top-left of the specified control. Note that this uses the `Ctl.Position` property and therefore includes any labels or other visible parts of the control.
+        The mouse cursor will move to the specified percentage from the top-left of the specified control. Note that this uses the <code>Ctl.Position</code> property and therefore includes any labels or other visible parts of the control.
       </td>
     </tr>
     <tr>
