@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-08-18 12:13:07" Modified_Date="2026-08-24 23:24:07" Creator="acasalen" Comments="" ID="87d87736bb55b1b94d8669b0808e8ad2">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-08-18 12:13:07" Modified_Date="2026-08-25 22:14:54" Creator="acasalen" Comments="" ID="e1b1cdc18129a6dc97e8e78b7efac085">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_MacroAssert</Package_File_Name>
-    <Library_Version>0.1.0.7</Library_Version>
+    <Library_Version>0.1.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds\MacroAssert</Library_Output_Folder>
@@ -35,7 +35,7 @@
 
 - No-code framework: tests are configured through a GUI and are stored as INI files, meaning no LabVIEW experience is needed to create tests
 - Mouse actions can be configured to be relative to a front panel control or window, in either pixels or percent
-- Keyboard actions have support for &lt;b&gt;Ctrl&lt;/b&gt;, &lt;b&gt;Alt&lt;/b&gt;, and &lt;b&gt;Shift&lt;/b&gt; modifiers
+- Keyboard actions have support for &lt;font=Consolas&gt;Ctrl&lt;/font&gt;, &lt;font=Consolas&gt;Alt&lt;/font&gt;, and &lt;font=Consolas&gt;Shift&lt;/font&gt; modifiers
 - Support for various other actions, such as maximizing and minimizing windows and waiting until a set time of day
 - Long list of assertions that can be used, such as verifying front panel control values, verifying the frontmost window name, verifying that a window is fully on-screen, and many more
 - Ability to connect remotely to a runtime application to run tests on it
