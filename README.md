@@ -23,7 +23,7 @@ MacroAssert is a free, open-source tool that allows the user to create sequences
 
 ## Getting started
 
-- Download and install the latest version of the tool. It can be found by searching for it on VI Package Manager. It can also be found on [vipm.io](https://www.vipm.io/package/redhawk_lib_macro_assert) and in the [Releases](https://github.com/FireFist-Redhawk/MacroAssert/releases) section of the repository.
+- Download and install the latest version of the tool. It can be found by searching for it on VI Package Manager. It can also be found on [vipm.io](https://www.vipm.io/package/redhawk_lib_macroassert) and in the [Releases](https://github.com/FireFist-Redhawk/MacroAssert/releases) section of the repository.
 - After being installed, it is integrated into the LabVIEW development environment and can be launched by clicking <b>Tools &rarr; Redhawk &rarr; MacroAssert</b> in any LabVIEW window.
 
 
