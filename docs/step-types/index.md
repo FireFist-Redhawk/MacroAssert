@@ -94,7 +94,7 @@ The delay, in milliseconds, after a step finishes, before proceeding to the next
 
 ## Repeat
 
-The number of times to repeat the step. A value of 0 specifies to repeat the step 0 times, meaning the step is performed one time.
+The number of times to perform the step.
 
 ## Abort on Fail?
 
