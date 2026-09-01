@@ -1,7 +1,10 @@
 # MacroAssert
 
+[![Image](https://www.vipm.io/package/redhawk_lib_macroassert/badge.svg?metric=installs)](https://www.vipm.io/package/redhawk_lib_macroassert/) [![Image](https://www.vipm.io/package/redhawk_lib_macroassert/badge.svg?metric=stars)](https://www.vipm.io/package/redhawk_lib_macroassert/)
+
 MacroAssert is a free, open-source tool that allows the user to create sequences of highly configurable steps that can be used to test user interfaces. The goal is to provide an intuitive tool for creating reliable UI tests that are agnostic to changes in display scale, monitor resolution, and front panel control positions.
 
+![Image](docs/assets/images/macroassert-main.png)
 
 ## Features
 
