@@ -39,6 +39,8 @@
 		<Item Name="App Instance.ctl" Type="VI" URL="../CTLs/App Instance.ctl"/>
 		<Item Name="Config Key.ctl" Type="VI" URL="../CTLs/Config Key.ctl"/>
 		<Item Name="Config.ctl" Type="VI" URL="../CTLs/Config.ctl"/>
+		<Item Name="Control Map Control Data.ctl" Type="VI" URL="../CTLs/Control Map Control Data.ctl"/>
+		<Item Name="Control Map Value.ctl" Type="VI" URL="../CTLs/Control Map Value.ctl"/>
 		<Item Name="Edit Action.ctl" Type="VI" URL="../CTLs/Edit Action.ctl"/>
 		<Item Name="FGV Actions.ctl" Type="VI" URL="../CTLs/FGV Actions.ctl"/>
 		<Item Name="Hotkey Type.ctl" Type="VI" URL="../CTLs/Hotkey Type.ctl"/>
@@ -70,12 +72,15 @@
 			<Item Name="Convert String to Hex String.vi" Type="VI" URL="../SubVIs/Convert String to Hex String.vi"/>
 			<Item Name="Convert to Valid File Name.vi" Type="VI" URL="../SubVIs/Convert to Valid File Name.vi"/>
 			<Item Name="Delete Macro.vi" Type="VI" URL="../SubVIs/Delete Macro.vi"/>
+			<Item Name="Find Matching Controls.vi" Type="VI" URL="../SubVIs/Find Matching Controls.vi"/>
 			<Item Name="Get All VIs in Memory.vi" Type="VI" URL="../SubVIs/Get All VIs in Memory.vi"/>
 			<Item Name="Get App Port.vi" Type="VI" URL="../SubVIs/Get App Port.vi"/>
 			<Item Name="Get Project Path from App Ref.vi" Type="VI" URL="../SubVIs/Get Project Path from App Ref.vi"/>
 			<Item Name="Get True Owning Pane.vi" Type="VI" URL="../SubVIs/Get True Owning Pane.vi"/>
 			<Item Name="Get VI Clone Names.vi" Type="VI" URL="../SubVIs/Get VI Clone Names.vi"/>
+			<Item Name="Initialize Control Map.vi" Type="VI" URL="../SubVIs/Initialize Control Map.vi"/>
 			<Item Name="Initialize Results Array.vi" Type="VI" URL="../SubVIs/Initialize Results Array.vi"/>
+			<Item Name="Insert Control into Map.vi" Type="VI" URL="../SubVIs/Insert Control into Map.vi"/>
 			<Item Name="Is Step in Range.vi" Type="VI" URL="../SubVIs/Is Step in Range.vi"/>
 			<Item Name="Is VI Front Panel Open.vi" Type="VI" URL="../SubVIs/Is VI Front Panel Open.vi"/>
 			<Item Name="Open App Reference.vi" Type="VI" URL="../SubVIs/Open App Reference.vi"/>

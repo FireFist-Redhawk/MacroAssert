@@ -49,13 +49,17 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Users/User/Documents/LabVIEW Data/Projects/builds/NI_AB_PROJECTNAME/MacroAssert Tests/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AA71F887-81B5-4F1E-A2EC-C2504C691645}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C3348D52-1688-4F01-84C2-D1779324C4A8}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/MacroAssert Tests.lvlib/MacroAssert Tests.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/MacroAssert Tests.lvlib/SubVIs/Subpanel VI.vi</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">MacroAssert Tests</Property>
 				<Property Name="TgtF_internalName" Type="Str">MacroAssert Tests</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2012 </Property>
