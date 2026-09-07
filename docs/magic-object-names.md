@@ -1,6 +1,6 @@
 ---
 title: Magic object names
-nav_order: l0s004
+nav_order: l0s005
 ---
 
 # Magic object names
